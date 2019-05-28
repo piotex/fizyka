@@ -66,8 +66,43 @@ footer{
 .content_answer img{
     width: 100%;
 }
-
-
+.navi_fiz_menu {
+    width: 250px;
+    height: 15px;
+    border-radius: 10px;
+    background-color: #abb2b7;
+    margin: 15px 0;
+    padding: 15px 0;
+    text-align: center;
+    color: #fff;
+    font-weight: 550; 
+    font-size: 17px;
+}
+.navi_title{
+    text-align: center;
+    color: #464646;
+    font-weight: 1000; 
+    font-size: 25px;
+}
+a{
+  text-decoration: none;
+}
+.main_content_text_1{
+    color: #4a4a4a;
+    font-weight: 1000; 
+    font-size: 60px;
+}
+.main_content_text_2{
+    color: #abb2b7;
+    font-weight: 700; 
+    font-size: 55px;
+}
+.main_content_text_3{
+    color: #5b5b5b;
+    font-weight: 550; 
+    font-size: 25px;
+    padding: 25px 0;
+}
 
 
 
