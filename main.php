@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Page Title</title>
+        <title>Fiz-Mat</title>
+        <link rel="icon" href="images/logo.png" type="image/gif" sizes="16x16">
         <link rel="stylesheet" type="text/css" href="style/main.css">
         <link rel="stylesheet" type="text/css" href="style/mobile.css">
         <link rel="stylesheet" type="text/css" href="style/pc.css">
