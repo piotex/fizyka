@@ -2,12 +2,43 @@
     .container{
         width: 90%;
     }
+    header{
+        height: 100px;
+    }
+    .header_space {
+        height: 120px;
+    }
+    .header_logo img {
+        margin-top: -75px;
+        height: 250px;
+    }
     .content{
         margin: 30px 2px 0 2px;
         padding: 20px 15px;
         
         display: block;
         border-radius: 10px;
+    }
+    .content_title {
+        font-size: 55px;
+    }
+    .content_number_of_task {
+        font-size: 27px;
+    }
+    .content_task {
+        font-size: 40px;
+    }
+    .content h1{
+        font-size: 3em;
+    }
+    .main_content_text_1{
+        font-size: 130px;
+    }
+    .main_content_text_2{
+        font-size: 120px;
+    }
+    .main_content_text_3{
+        font-size: 40px;
     }
     .navi{
         margin: 30px 2px 0 2px;
@@ -18,7 +49,33 @@
     }
     .navi_fiz_menu {
         width: 70%;
-        margin: 15px auto;
+        margin: 15px auto;    
+        font-size: 40px;
+        height: 90px;
+        padding: 30px 0 0 0;
+    }
+    .navi_title {
+        font-size: 50px;
+    }
+    .navi_cat_txt{
+        font-size: 35px;
+        padding: 0 0px 40px 25px;
+    }
+    .navi_cat_zad{
+        font-size: 36px;
+        height: 95px;
+    }
+    footer {
+        height: 120px;
+        margin: 200px 0 0 0;
+    }
+    .footer_title{
+        font-weight: 550; 
+        font-size: 45px;
+    }
+    .footer_content{
+        font-size: 40px;
+        padding: 0 0 15px 0;
     }
 }
 

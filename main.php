@@ -62,8 +62,8 @@
         </div>
     </div>
     <footer>
-        <b>Kontakt:</b> 
-        <p>E-mail: pkubon2@gmail.com</p>
+        <div class="footer_title">Kontakt:</div> 
+        <div class="footer_content">E-mail: pkubon2@gmail.com</div>
     </footer>
     <script src="scripts/main.js"></script>
 </body>
