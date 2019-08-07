@@ -290,16 +290,589 @@ $data['f1'] = array(
                                 'question'=>'1.63 Wprawiana w ruch karuzela przez pierwsze 4 s porusza się ruchem przyspieszonym. Szybkość dziecka siedzącego na koniku w odległości 2,4 m od osi wzrasta z czasem według wzoru: v = 0,4 m/s2 * t Traktując dziecko jako punkt materialny, oblicz:...',
                                 'answer'=> 'fa63'
                                 ),
-                    
                    );
+
 $data['f2'] = array(
                     '1'=> array(
-                                'question'=>'Janek wyrusza o 14, o której wróci?',
+                                'question'=>'Samochód osobowy ciągnący przyczepe bagażową o masie 750 kg rozpędził się w ciągu 15s do 36 km/h. Oblicz wartość siły którą auto działało na przyczepę...',
                                 'answer'=> "fb1"
                                 ),
-                    ''=> array(
+                    '2'=> array(
+                                'question'=>'Chłopiec rozpędza załadowane sanki działając siłą o wartości 1,6N. Oblicz masę sanek z ładynkiem jeśli w czasie 30s przebyły one drogę 45m. Pomiń...',
+                                'answer'=> 'fb2'
+                                ),
+                    '3'=> array(
+                                'question'=>'W chwili gdy fiat jadący z szybkością 36km/h mija opla zaparkowanego na poboczu, ten rusza i od tej chwili oba samochody poruszają się ruchem jednostajnie przyspieszonym. Po 16s...',
+                                'answer'=> 'fb3'
+                                ),
+                    '4'=> array(
+                                'question'=>'Na pewne ciało działąją siły pokazane na rysunku. Oblicz masę tego ciała, jeśli po przebyciu 5,4m ruchem jednostajnie przyspieszonym uzyskało ono szybkość 6m/s ...',
+                                'answer'=> 'fb4'
+                                ),
+                    '5'=> array(
+                                'question'=>'Przesunięcie książki o masie 2,4kg po stole ruchem jednostajnym wymagało przyłożenia siły o wartości 4N. Oblicz wartość siły której należało by użyć, aby tę samą książkę ciągnąć...',
+                                'answer'=> 'fb5'
+                                ),
+                    '6'=> array(
+                                'question'=>'Chłopiec popchnął sanki i nadał im szybkość początkową 14,4km/h Oblicz drogę którą przebyły sanki do chwili zatrzymania i czas po którym to nastąpiło...',
+                                'answer'=> 'fb6'
+                                ),
+                    '7'=> array(
+                                'question'=>'Klocek o masie 20dag pchnięto po stole, nadając mu szybkość 3,5m/s. Jaką wartość miała siła oporu, jeśli po przebyciu ruchem jednostajnie opóźnionym drogi 30cm klocek miał jeszcze szybkość 0,5 m/s ?',
+                                'answer'=> 'fb7'
+                                ),
+                    '8'=> array(
+                                'question'=>'Wypełniony wodorem balon, który wraz z gondolą ma mase 850kg i unosi dwóch podróżników oraz ładunek o łącznej masie 180kg opada ze stałą szybkością. Siłą wyporu...',
+                                'answer'=> 'fb8'
+                                ),
+                    '9'=> array(
+                                'question'=>'W nieruchomej windzie walizka wywiera na podłogę nacisk o wartości F = 200N. Oblicz wartość przyspieszenia z którym porusza się winda i podaj jego zwrot jeśli wartość siły nacisku walizki...',
+                                'answer'=> 'fb9'
+                                ),
+                    '10'=> array(
+                                'question'=>'Oblicz siłę nacisku sznura, za pomocą którego podnoszono wiadro z wodą o łącznej masie 20kg z przyspieszeniem o wartości 2m/s^2 ',
+                                'answer'=> 'fb10'
+                                ),
+                    '11'=> array(
+                                'question'=>'Uprawiający wspinaczkę turysta o masie 60kg zawisł na zaczepionej o skałę linie. po której musi się wspiąć kilkadziesiąt centymetrów w górę. Turysta wspina się po linie z przyspieszeniem...',
+                                'answer'=> 'fb11'
+                                ),
+                    '12'=> array(
+                                'question'=>'Dwa gładkie klocki o masach m1 = 40dag i m2 = 25dag połączono nierozciągliwą nicią. Na pierwszy klocek zadziałano siłą F o wartości 0,975N...',
+                                'answer'=> 'fb12'
+                                ),
+                    '13'=> array(
+                                'question'=>'Dwa gładkie klocki z których pierwszy ma masę 1,5 raza większą niż drugi, połączono nierozciągliwą nicią. Do klocka o większej masie przyłożono siłę F1 o wartości 4,2N, a do drugiego...',
+                                'answer'=> 'fb13'
+                                ),
+                    '14'=> array(
+                                'question'=>'Pięć jednakowych klocków, każdy o masie 0.1kg łączymy czterema nitkami o pomijalnie małych masach. Całość ciągniemy siłą F o wartości 1N. Na rysunku nitki...',
+                                'answer'=> 'fb14'
+                                ),
+                    '15'=> array(
+                                'question'=>'Układ trzech jednakowych kulek (I, II, III) o masach 0.1kg każda, połączonych dwiema linkami (1, 2) o pomijalnie małych masach, ciągniemy w górę siłą F o wartości 3,6N...',
+                                'answer'=> 'fb15'
+                                ),
+                    '16'=> array(
+                                'question'=>'Do wózka o masie 0,6kg znajdującego się na torze powietrznym dołączono nitkę, którą przerzucono przez bloczek na końcy toru. Na nitce zawieszono...',
+                                'answer'=> 'fb16'
+                                ),
+                    '17'=> array(
+                                'question'=>'Do dwóch identycznych klocków o masach m1 = 0,44kg przyczepiono nitki, które przerzucono przez bloczki. Na końcu nitki dołączonej...',
+                                'answer'=> 'fb17'
+                                ),
+                    '18'=> array(
+                                'question'=>'Przez nieruchomy bloczek przerzucono nieważką nić, na której końcach zawieszono ciężarki o masach m1 = 0,3kg i m2 = 0,5kg. Oblicz wartość przyspieszenia ciężarków i wartość siły naciągu nitki...',
+                                'answer'=> 'fb18'
+                                ),
+                    '19'=> array(
+                                'question'=>'Dwa ciężarki o masach m1 = 0,4kg i m2 = 0,6kg zawieszono na nici przerzuconej przez nieruchomy blok. Początkowo środki ciężarków znajdowały się na tej samej wysokości. Po jakim czasie...',
+                                'answer'=> 'fb19'
+                                ),
+                    '20'=> array(
+                                'question'=>'Ciało zsuwa się z równi pochyłej o wysokości h = 80cm i kącie nachylenia 30o. Korzystając z danychi rysunku...',
+                                'answer'=> 'fb20'
+                                ),
+                    '21'=> array(
+                                'question'=>'Oblicz czas zjazdu na sankach z górki o wysokości 24,2m i kącie nachylenia 30o do poziomu. Pomiń tarcie. Narysuj...',
+                                'answer'=> 'fb21'
+                                ),
+                    '22'=> array(
+                                'question'=>'Oblicz długość równi pochyłekj o wysokości h = 7,2cm jeśli puszczona z niej kostka lodu dotarła do podnóża po czasie 2,25s...',
+                                'answer'=> 'fb22'
+                                ),
+                    '23'=> array(
+                                'question'=>'Oblicz drogę którą przebędzie ciało pchnięte pod góre równi pochyłej z szybkością 5m/s do czasu zatrzymania się jeśli kąt nachylenia równi do poziomu jest równy 45o...',
+                                'answer'=> 'fb23'
+                                ),
+                    '24'=> array(
+                                'question'=>'U podnóża równi pochyłej nachylonej do poziomu pod kątem 30o nadano ciału szybkość początkową 3m/s. Oblicz pomijając tarczie...',
+                                'answer'=> 'fb24'
+                                ),
+                    '25'=> array(
+                                'question'=>'Pierwszy stopień rakiety Saturn 5, używanej w misjach Apollo, miał 5 silników. Do komory spalania każdego z nich doprowadzono w każdej sekundzie m1 = 0,9t paliwa i m2 = 1,8t ciekłego tlenu. Wartość siły ciągu jednego silnika rakiety wynosi F...',
+                                'answer'=> 'fb25'
+                                ),
+                    '26'=> array(
+                                'question'=>'Kula bilardowa której pęd ma wartość 0,3 kg*m/s, a kierunek jest prostopadły do bandy odbija się od niej. Po odbiciu bila porusza się z taką samą szybkością. Oblicz wartośćwektora zmiany pędu bili.',
+                                'answer'=> 'fb26'
+                                ),
+                    '27'=> array(
+                                'question'=>'Na sanki o masie 5kg poruszające się po gładkim lodzie z szybkością 4m/s spadł z góry placek o msaie 3kg. Z jaką szybkością poruszały się sanki po tym zdarzeniu?',
+                                'answer'=> 'fb27'
+                                ),
+                    '28'=> array(
+                                'question'=>'Kula armatnia o masie 12kg została wystrzelona poziomo z szybkością 300m/s w kierunku spoczywającej platformy z piaskiem i ugrzęzła w nim. Oblicz masę platformy i piasku jeśli w wyniku uderzenia kuli platforma wraz z piaskiem i kulą zyskała szybkość 18 km/h.',
+                                'answer'=> 'fb28'
+                                ),
+                    '29'=> array(
+                                'question'=>'Dwa wagoniki o masach m1= 0,1kg i m2 = 0,2kg poruszają się jeden za drugim jak pokazano na rysunku, z szybkościami v1 oraz v2....',
+                                'answer'=> 'fb29'
+                                ),
+                    '30'=> array(
+                                'question'=>'Uczniowiie wykonali doświadczenie na torze powietrznym, zderzając za sobą niesprężyście wózki o masach 0,4kg, przy czym jeden z nich został dodatkowo obciążony. Cięższy wózek poruszał się z prędkością...',
+                                'answer'=> 'fb30'
+                                ),
+                    '31'=> array(
+                                'question'=>'Dwaj chłopcy na łyżwach przerzucają między sobą piłkę lekarską. Oblicz jaką szybkość uzyska spoczywający początkowo chłopiec o masie 50kg który wyrzucił piłkę o masie 5kg pod kątem 30o do poziomu, z szybkością 5m/s...',
+                                'answer'=> 'fb31'
+                                ),
+                    '32'=> array(
+                                'question'=>'Trzy kulki z plasteliny o masach podanych na rysunku leżą na stole. Siły tarcia podczas ruchu kulek pomijamy. Kulkę 1 prznięto w prawo z szybkością v1 = 0,4 m/s , a kulkę 3...',
+                                'answer'=> 'fb32'
+                                ),
+                    '33'=> array(
+                                'question'=>'Dwie dziewczyny jadące naprzeciwko siebie na rolkach przerzuciły między sobą plecak o masie 6kg. Pierwsza z nich o masie 60kg poruszała sią z szybkością 8m/s i wyrzuciła plecak poziomo z szybkością 4m/s względem siebie. Druga...',
+                                'answer'=> 'fb33'
+                                ),
+                    '34'=> array(
+                                'question'=>'W zderzeniach idealnie sprężystych, których dobrym przybliżeniem są zderzenia kul bilardowych, zachowane są zarówno pęd układu, jak i jego energia kinetyczna. Zastosowanie obu zasad zachowania prowadzi do następującyzh wzorów na...',
+                                'answer'=> 'fb34'
+                                ),
+                    '35'=> array(
+                                'question'=>'Na wykresie poniżej przedstawiono zależność wartości siły tarcia od wartości siły zewnętrznej działającej na ciało o masie m = 0,5kg i równoległej do...',
+                                'answer'=> 'fb35'
+                                ),
+                    '36'=> array(
+                                'question'=>'Klocek o masie 400g jest ciągnięty po poziomej powierzchni siłą o wartości 2,5N. Oblicz współczynnik tarcia o powierzchnię jeśli w ciągu 2s od początku klocek uzyskał szybkość 8m/s.',
+                                'answer'=> 'fb36'
+                                ),
+                    '37'=> array(
+                                'question'=>'Książkę o masie 0,25kg pchnięto po stole nadając jej szybkość 1,5m/s. Oblicz współczynnki tarcia książki o stół jeśli zatrzymała się ona po przebyciu 75cm. Załóż że książka poruszała się ruchem jednostajnie opóźnionym.',
+                                'answer'=> 'fb37'
+                                ),
+                    '38'=> array(
+                                'question'=>'Kula z plasteliny o masie 10 dag poruszająca się z szybkością 10m/s uderza w nieruchomy wózek o masie 0,4 kg i przykleja sie do niego. Oblicz czas po którym wózek z plastelinową kulką zatrzyma się i drogę jaką przebędzie...',
+                                'answer'=> 'fb38'
+                                ),
+                    '39'=> array(
+                                'question'=>'Turysta ma trzy pary butów. Współczynnik tarcia statycznego ich zelówek po oblodzonej powierzchni zbocza wynoszą dla pierwszej pary 0,15, dla drugiej 0,18 a dla trzeciej 0,24. Współczynniki tarcia kinetycznego są równe...',
+                                'answer'=> 'fb39'
+                                ),
+                    '40'=> array(
+                                'question'=>'Dziecko o masie 25kg zjechało ze zbocza o długości 20m i kącie nachylenia 30o na sankach o masie 5kg. Oblicz drogę jaką przebyło dziecko na sankach na torze pozimym aż do zatrzymania jeśli współczynnik tarcia na całym torze był równy 0,25.',
+                                'answer'=> 'fb40'
+                                ),
+                    '41'=> array(
+                                'question'=>'Sanki zostały pchnięte pod górkę o kącie nachylenia 30o z szybkością 5m/s. Po jakim czasie wrócą do miejsca z którego je pchnięto, jeśli współczynnik tarcia sanek o śnieg wynosi 0,12?',
+                                'answer'=> 'fb41'
+                                ),
+                    '42'=> array(
+                                'question'=>'Ojciec ciąnie sanki z chłopcem o masie 35kg działając siłą o wartości F=500N tak jak pokazano na rysunku. Współczynnik tarcia sanek o śnieg wynosi 0,12 a ich masa 5kg. Oblicz wartość przyspieszenia sanek z chłopcem.',
+                                'answer'=> 'fb42'
+                                ),
+                    '43'=> array(
+                                'question'=>'Przesuwając skrzynię o masie 60kg działano siłą o wartości 500N jak pokazuje rysunek. Współczynnik tarcia skrzyni o podłoże wynosi 0,5. Oblicz wrtość przyspieszenia jakie uzyskała skrzynia.',
+                                'answer'=> 'fb43'
+                                ),
+                    '44'=> array(
+                                'question'=>'Na sankach o masie m siedzi dziecko o masie M. Na sanki działa w kierunku poziomym siła F. Sanki wraz z dzieckim...',
+                                'answer'=> 'fb44'
+                                ),
+                    '45'=> array(
+                                'question'=>'Dwa klocki o masach m1 = 1,5kg i m2 = 0,5kg połączono nieważką nicią. Na klocki działają siły o wartościach odpowiednio F1 = 8N...',
+                                'answer'=> 'fb45'
+                                ),
+                    '46'=> array(
+                                'question'=>'Do leżącego na stole klocka o masie m1 = 0,5kg przymocowano nić i przerzucono są przez nieważki bloczek. Na końcu nici zawieszono ciężaarek o masie m2 = 0,3kg. Współczynnik tarcia klocka o stół f = 0,4. Oblicz szybkość z którą ciężarek uderzy w podłoże, jeśli spada z wysokości h = 90cm.',
+                                'answer'=> 'fb46'
+                                ),
+                    '47'=> array(
+                                'question'=>'Do leżącego na stole klocka o masie 0,20kg przyczepiono cienką nitkę którą przerzucono przez bloczek a na drugim jej końcu zawieszono obciążnik o masie 0,05kg. Współczynnik tarcia kinetycznego o powierzchnię stołu...',
+                                'answer'=> 'fb47'
+                                ),
+                    '48'=> array(
+                                'question'=>'Rozwiąż zadanie 2.47* przyjmując że ścianka klocka znajduje się w odległożsi 0,9m od bloczka.',
+                                'answer'=> 'fb48'
+                                ),
+                    '49'=> array(
+                                'question'=>'Na dwóch równiach pochyłych o jednakowych długościach 0,6m tworzących z poziomem różne kąty położono klocki. Masa każdego z nich jest równa m2 = 0,3kg...',
+                                'answer'=> 'fb49'
+                                ),
+                    '50'=> array(
+                                'question'=>'Klocek o masie m i wózek o masie 3 razy większej połączono nitką i umieszczono na równi pochyłej o kącie nachylenia 30o do poziomu. Oblicz współczynnik tarcia..',
+                                'answer'=> 'fb50'
+                                ),
+                    '51'=> array(
+                                'question'=>'Dwa jednakowe klocki o masach m = 0,2kg każdy połączono linką przerzuconą przez nieruchomy bloczek, umocowany na szczycie równi pochyłej(masę bloczka i linki pomijamy). Między klockiem leżącym na równi...',
+                                'answer'=> 'fb51'
+                                ),
+                    '52'=> array(
+                                'question'=>'Pudełko o masie m zsuwa się po rynnie z przyspieszeniem. krawędź rynny tworzy z poziomem kąt a, a współczynnik tarcia kinetycznego pudełka o ścianki rynny jest równy f...',
+                                'answer'=> 'fb52'
+                                ),
+                    '53'=> array(
                                 'question'=>'',
-                                'answer'=> 'fb'
+                                'answer'=> 'fb53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb72'
+                                ),
+                    
+                   );
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+$data['f3'] = array(
+                    '1'=> array(
+                                'question'=>'Samochód osobowy ciągnący przyczepe bagażową o masie 750 kg rozpędził się w ciągu 15s do 36 km/h. Oblicz wartość siły którą auto działało na przyczepę...',
+                                'answer'=> "fb1"
+                                ),
+                    '2'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb2'
+                                ),
+                    '3'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb3'
+                                ),
+                    '4'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb4'
+                                ),
+                    '5'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb5'
+                                ),
+                    '6'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb6'
+                                ),
+                    '7'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb7'
+                                ),
+                    '8'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb8'
+                                ),
+                    '9'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb9'
+                                ),
+                    '10'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb10'
+                                ),
+                    '11'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb11'
+                                ),
+                    '12'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb12'
+                                ),
+                    '13'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb13'
+                                ),
+                    '14'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb14'
+                                ),
+                    '15'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb15'
+                                ),
+                    '16'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb16'
+                                ),
+                    '17'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb17'
+                                ),
+                    '18'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb18'
+                                ),
+                    '19'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb19'
+                                ),
+                    '20'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb20'
+                                ),
+                    '21'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb21'
+                                ),
+                    '22'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb22'
+                                ),
+                    '23'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb23'
+                                ),
+                    '24'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb24'
+                                ),
+                    '25'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb25'
+                                ),
+                    '26'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb26'
+                                ),
+                    '27'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb27'
+                                ),
+                    '28'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb28'
+                                ),
+                    '29'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb29'
+                                ),
+                    '30'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb30'
+                                ),
+                    '31'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb31'
+                                ),
+                    '32'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb32'
+                                ),
+                    '33'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb33'
+                                ),
+                    '34'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb34'
+                                ),
+                    '35'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb35'
+                                ),
+                    '36'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb36'
+                                ),
+                    '37'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb37'
+                                ),
+                    '38'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb38'
+                                ),
+                    '39'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb39'
+                                ),
+                    '40'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb40'
+                                ),
+                    '41'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb41'
+                                ),
+                    '42'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb42'
+                                ),
+                    '43'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb43'
+                                ),
+                    '44'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb44'
+                                ),
+                    '45'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb45'
+                                ),
+                    '46'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb46'
+                                ),
+                    '47'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb47'
+                                ),
+                    '48'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb48'
+                                ),
+                    '49'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb49'
+                                ),
+                    '50'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb50'
+                                ),
+                    '51'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb51'
+                                ),
+                    '52'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb52'
+                                ),
+                    '53'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'fc70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'fc71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'fc72'
+                                ),
                     
                    );
 
