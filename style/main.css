@@ -100,7 +100,7 @@ footer{
 .navi_cat_txt{
     min-height: 25px;
     margin: 0px 0 10px 160px;
-    padding: 5px 0 0 0;
+    padding: 8px 0 0 0;
     color: #464646;
     font-weight: 500; 
     font-size: 18px;
@@ -108,7 +108,7 @@ footer{
 }
 .navi_cat_main{
     width: 100%;
-    margin: 10px 0;
+    margin: 20px 0;
     padding: 5px 0;
 }
 
