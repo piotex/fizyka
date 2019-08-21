@@ -18,8 +18,11 @@ $data['titles'] = array(
                         'f12'=> 'Optyka',
                         'f13'=> 'Dualizm',
                         );
+<<<<<<< HEAD
 // 1
 {
+=======
+>>>>>>> 0a10a16ced6cd25a50e465e1f36449e324bc26bd
 $data['f1'] = array(
                     '1'=> array(
                                 'question'=>'1.1 Julek ma trening o sidemnastej. O której najpóźniej musi wyjść z domu, aby dotrzeć na miejsce 15 minut przed treningiem, jeżeli ma do przebycia 14 km? Średnia szybkość z którą jedzie autobus o tej porze dnia, wynosi 35 km/h.',
@@ -293,9 +296,13 @@ $data['f1'] = array(
                                 'answer'=> 'fa63'
                                 ),
                    );
+<<<<<<< HEAD
 }
 //2
 {
+=======
+
+>>>>>>> 0a10a16ced6cd25a50e465e1f36449e324bc26bd
 $data['f2'] = array(
                     '1'=> array(
                                 'question'=>'Samochód osobowy ciągnący przyczepe bagażową o masie 750 kg rozpędził się w ciągu 15s do 36 km/h. Oblicz wartość siły którą auto działało na przyczepę...',
@@ -506,6 +513,7 @@ $data['f2'] = array(
                                 'answer'=> 'fb52'
                                 ),
                     '53'=> array(
+<<<<<<< HEAD
                                 'question'=>'Na dziecko o masie 35kg poruszające się na karuzeli działa siła dośrodkowa o wartości 166N. Częstotliwość z którą obraca się karuzela wynosi 12 obr/min. Oblicz promień okręgu...',
                                 'answer'=> 'fb53'
                                 ),
@@ -1040,6 +1048,382 @@ $data['f'] = array(
                     
                    );
 }
+=======
+                                'question'=>'',
+                                'answer'=> 'fb53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb72'
+                                ),
+                    
+                   );
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+$data['f3'] = array(
+                    '1'=> array(
+                                'question'=>'Samochód osobowy ciągnący przyczepe bagażową o masie 750 kg rozpędził się w ciągu 15s do 36 km/h. Oblicz wartość siły którą auto działało na przyczepę...',
+                                'answer'=> "fb1"
+                                ),
+                    '2'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb2'
+                                ),
+                    '3'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb3'
+                                ),
+                    '4'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb4'
+                                ),
+                    '5'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb5'
+                                ),
+                    '6'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb6'
+                                ),
+                    '7'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb7'
+                                ),
+                    '8'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb8'
+                                ),
+                    '9'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb9'
+                                ),
+                    '10'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb10'
+                                ),
+                    '11'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb11'
+                                ),
+                    '12'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb12'
+                                ),
+                    '13'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb13'
+                                ),
+                    '14'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb14'
+                                ),
+                    '15'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb15'
+                                ),
+                    '16'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb16'
+                                ),
+                    '17'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb17'
+                                ),
+                    '18'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb18'
+                                ),
+                    '19'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb19'
+                                ),
+                    '20'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb20'
+                                ),
+                    '21'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb21'
+                                ),
+                    '22'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb22'
+                                ),
+                    '23'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb23'
+                                ),
+                    '24'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb24'
+                                ),
+                    '25'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb25'
+                                ),
+                    '26'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb26'
+                                ),
+                    '27'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb27'
+                                ),
+                    '28'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb28'
+                                ),
+                    '29'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb29'
+                                ),
+                    '30'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb30'
+                                ),
+                    '31'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb31'
+                                ),
+                    '32'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb32'
+                                ),
+                    '33'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb33'
+                                ),
+                    '34'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb34'
+                                ),
+                    '35'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb35'
+                                ),
+                    '36'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb36'
+                                ),
+                    '37'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb37'
+                                ),
+                    '38'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb38'
+                                ),
+                    '39'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb39'
+                                ),
+                    '40'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb40'
+                                ),
+                    '41'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb41'
+                                ),
+                    '42'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb42'
+                                ),
+                    '43'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb43'
+                                ),
+                    '44'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb44'
+                                ),
+                    '45'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb45'
+                                ),
+                    '46'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb46'
+                                ),
+                    '47'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb47'
+                                ),
+                    '48'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb48'
+                                ),
+                    '49'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb49'
+                                ),
+                    '50'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb50'
+                                ),
+                    '51'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb51'
+                                ),
+                    '52'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb52'
+                                ),
+                    '53'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'fb69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'fc70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'fc71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'fc72'
+                                ),
+                    
+                   );
+
+>>>>>>> 0a10a16ced6cd25a50e465e1f36449e324bc26bd
 
 function dump($var)
 {
