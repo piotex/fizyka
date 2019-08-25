@@ -597,156 +597,273 @@ $data['f3'] = array(
                                 'answer'=> "fc1"
                                 ),
                     '2'=> array(
-                                'question'=>'',
+                                'question'=>'Podczas przesuwania szafy o masie 80kg ruchem jednostajnym wykonano prace 1,44kJ na drodze 4,5m. Oblicz współczynnik tarcia szafy o podłogę.',
                                 'answer'=> 'fc2'
                                 ),
                     '3'=> array(
-                                'question'=>'',
+                                'question'=>'Sanki z dzieckiem o łącznej masie 30kg są ciągnięte tak jak pokazano na rysunku. Oblicz pracę którą wykonała mama ciągnąca sanki...',
                                 'answer'=> 'fc3'
                                 ),
                     '4'=> array(
-                                'question'=>'',
+                                'question'=>'Pracownik magaazynu otrzymał polecenie przesunięcia na pewnąą odległość kontenera o masie 30kg. Współczynnik tarcia kinetycznego kontenera o podłoże jest równy 0,3....',
                                 'answer'=> 'fc4'
                                 ),
                     '5'=> array(
-                                'question'=>'',
+                                'question'=>'Książki o łącznej masie 6,4kg podniesiono na wysokość 80cm, wykonując pracę 56J. Oblicz wartość siły, którą działano jeśli była ona skierowana pionowo.',
                                 'answer'=> 'fc5'
                                 ),
                     '6'=> array(
-                                'question'=>'',
+                                'question'=>'Oblicz pracę którą musi wykonać dźwig podnosząc płytę betonową o masie 1400kg na wysokość 14m z przyspieszeniem o wartości 0,8 m/s^2.',
                                 'answer'=> 'fc6'
                                 ),
                     '7'=> array(
-                                'question'=>'',
+                                'question'=>'Rolnik podnosi pionowo skrzynkę z jabłkami o masie 24kg na wysokość 0,9 m wykonując prace 259,2J. Oblicz wartość przyspieszenia zktóre nadaje on skrzynce jeśli założymy że ruch skrzyni jest jednostajnie przyspieszony.',
                                 'answer'=> 'fc7'
                                 ),
                     '8'=> array(
-                                'question'=>'',
+                                'question'=>'Oblicz minimalną pracę którą musi wykonać robotnik budowlany układając 20 cegieł o masie 2,6kg i wysokości 7cm każda w słupek jedna na drugiej.',
                                 'answer'=> 'fc8'
                                 ),
                     '9'=> array(
-                                'question'=>'',
+                                'question'=>'Klocek o masie 1kg zsówa się z równi pochyłej o wysokości 1m i o kącie nachylenia do poziomu równym 30o. Współczynik tarcia kinetycznego...',
                                 'answer'=> 'fc9'
                                 ),
                     '10'=> array(
-                                'question'=>'',
+                                'question'=>'Podczas wciągania pianina na platformę o wysokości 160cm i kącie nachylenia 30o została wykonana praca 6424,8J. Przyjmij że pianino wciągano za pomocą liny ruchem jednostajnym...',
                                 'answer'=> 'fc10'
                                 ),
                     '11'=> array(
-                                'question'=>'',
+                                'question'=>'Wykres na rysunku przedstawia zależność mocy pewnego urządzenia od czasu. Na jego podstawie oblicz pracę wykonaną przez to urządzenie w trakcie 40 minut...',
                                 'answer'=> 'fc11'
                                 ),
                     '12'=> array(
-                                'question'=>'',
+                                'question'=>'Samochód porusza się ruchem jednostajnym z szybkością 90km/h. Oblicz wartość siły ciągu silnika samochodu jeśli jego moc wynosi 300kW.',
                                 'answer'=> 'fc12'
                                 ),
                     '13'=> array(
-                                'question'=>'',
+                                'question'=>'Przy użyciu silnika siłowego o mocy 2,2kW wyppompowuje się wode ze studni. Wewnętrzna średnica kręgu wynosi 120cm, jego wysokość 90cm gęstość wudy 1000kg/m^3 a lustro wody znajduje się na głębokości 4m poniżej powierzchni ziemi...',
                                 'answer'=> 'fc13'
                                 ),
                     '14'=> array(
-                                'question'=>'',
+                                'question'=>'Samochód wjeżdża ze stałą szybkością 36km/h na pagórek którego zbocze jest nachylone pod kątem 11o do poziomu, przebywając droge 1,5km...',
                                 'answer'=> 'fc14'
                                 ),
                     '15'=> array(
-                                'question'=>'',
+                                'question'=>'Niewielkie ciało ześlizguje się bez tarcia po torze leżącym w płaszczyźnie pioowej. Rozpoczyna z punktu A w którym....',
                                 'answer'=> 'fc15'
                                 ),
                     '16'=> array(
-                                'question'=>'',
+                                'question'=>'Oblicz na jaką wysokość dotrze piłka wyrzucona pionowo w górę z szybkośią 6m/s',
                                 'answer'=> 'fc16'
                                 ),
                     '17'=> array(
-                                'question'=>'',
+                                'question'=>'Łucznik stojący na wzgórzu o wysokości 80m wystrzelił strzałę w górę pod kątem 60o do poziomy, nadając jaj szybkość 40m/s...',
                                 'answer'=> 'fc17'
                                 ),
                     '18'=> array(
-                                'question'=>'',
+                                'question'=>'Dziecko rzuciło w górę piłeczkę z szybkością początkową 6,4m/s z wysokości 60cm. Oblicz szybkość z jaką piłeczka uderzy w sufit mieszkania...',
                                 'answer'=> 'fc18'
                                 ),
                     '19'=> array(
-                                'question'=>'',
+                                'question'=>'Kamień o masie 20dag rzucono z wysokości 10m nadając mu szybkość początkową 4m/s. Oblicz...',
                                 'answer'=> 'fc19'
                                 ),
                     '20'=> array(
-                                'question'=>'',
+                                'question'=>'Piłkę rzucono w górę z wysokości 40cm nad podłożem. Oblicz z jaką szybkością rzucono piłkę...',
                                 'answer'=> 'fc20'
                                 ),
                     '21'=> array(
-                                'question'=>'',
+                                'question'=>'Podczas ćwiczeń wojskowych wystrzelono z działa pocisk z szybkością 300m/s pod kątem 45o...',
                                 'answer'=> 'fc21'
                                 ),
                     '22'=> array(
-                                'question'=>'',
+                                'question'=>'W sytuacji przedstawionej na rysunku pomijamy masę bloczka i linki oraz wszystkie opory...',
                                 'answer'=> 'fc22'
                                 ),
                     '23'=> array(
-                                'question'=>'',
+                                'question'=>'W sytuacji ukazanej na rysunku w poprzednim zadaniu energia całkowita klocka wiszącego na lince zmalała w pewnym czasie o 0,1J...',
                                 'answer'=> 'fc23'
                                 ),
                     '24'=> array(
-                                'question'=>'',
+                                'question'=>'Po odblokowaniu układ klocków przedstawiony na sunku 1 został wprawiony w ruch. Po przebyciu....',
                                 'answer'=> 'fc24'
                                 ),
                     '25'=> array(
-                                'question'=>'',
+                                'question'=>'Jaką minimalną szybkość musi mieć ciało na dole pętli o promieniu 5cm aby bezpiecznie ją przebyć?',
                                 'answer'=> 'fc25'
                                 ),
                     '26'=> array(
-                                'question'=>'',
+                                'question'=>'Ciało o masie 50g puszczono z wysokości h=2,5r jak pokazano na rysunku obok. Oblicz...',
                                 'answer'=> 'fc26'
                                 ),
                     '27'=> array(
-                                'question'=>'',
+                                'question'=>'Na lince która zrywa się pod działaniem siły o wartości 50N zawieszono kulę o masie 3kg. Zakładamy że linka jest mało rozciągliwa...',
                                 'answer'=> 'fc27'
                                 ),
                     '28'=> array(
-                                'question'=>'',
+                                'question'=>'Guzik o masie 4g uwiązany na końcu mocnej nitki o długości 0,5m wprawiono w ruch po okręgu w płaszczyźnie pionowej. W punkcie B okręgu...',
                                 'answer'=> 'fc28'
                                 ),
                     '29'=> array(
-                                'question'=>'',
+                                'question'=>'Pomiędzy dwoma spoczywającymiwózkami o masach m1 i m2 umieszczono sprężynę napiętą przez związanie jej końców nitką...',
                                 'answer'=> 'fc29'
                                 ),
                     '30'=> array(
-                                'question'=>'',
+                                'question'=>'Basia wskakuje z rozbiegu na huśtawkę o masie 5kg zawieszoną na linkach o długości 1,5m. Oblicz z jaką szybkością wskoczyła Basia...',
                                 'answer'=> 'fc30'
                                 ),
                     '31'=> array(
-                                'question'=>'',
+                                'question'=>'Kulka o masie 0,2kg zawieszona na nici o długości 0,9m została odchylona od pionu o kąt = 60o i puszczona swobodnie. Kulka ....',
                                 'answer'=> 'fc31'
                                 ),
                     '32'=> array(
-                                'question'=>'',
+                                'question'=>' Na dnie rynienki w kształcie półokręgu o średnicy 160cm położono klocek o masie m2=15g Drugi klocek o masie m1=25g...',
                                 'answer'=> 'fc32'
                                 ),
                     '33'=> array(
-                                'question'=>'',
+                                'question'=>'Dziecko bawi się małą kostką lodu wrzuconą do gładkiej miski w kształcie półkuli o średnicy 30cm. Oblicz...',
                                 'answer'=> 'fc33'
                                 ),
                     '34'=> array(
-                                'question'=>'',
+                                'question'=>'Samochodziki zabawki jeden o masie m, drugi o masie trzy razy większej połączono ściśniętą sprężynką o długości...',
                                 'answer'=> 'fc34'
                                 ),
                     '35'=> array(
-                                'question'=>'',
+                                'question'=>'Narciarz o masie 42kg zjechał na krechę z górki o wysokości 20m i kącie nachylenia 15o, po czym uderzył w śnieżną zaspę...',
                                 'answer'=> 'fc35'
                                 ),
                     '36'=> array(
-                                'question'=>'',
+                                'question'=>'Piłeczkę o masie 50g wyrzucono pionowo w górę z szybkością 8m/s. Po pewnym czasie piłeczka wróciła do miejsca...',
                                 'answer'=> 'fc36'
                                 ),
                     '37'=> array(
-                                'question'=>'',
+                                'question'=>'Pocisk o masie 20g poruszający się z szybkością 400m/s przebił pień drzewa o grubości 40cm...',
                                 'answer'=> 'fc37'
                                 ),
                     '38'=> array(
-                                'question'=>'',
+                                'question'=>'Pocisk o masie 5g wystrzelony poziomo z szybkością 500m/s trafił w pryzmę piasku w której zmniejsza szybkość a następnie wbija się w drewniany klocek o masie 2kg...',
                                 'answer'=> 'fc38'
                                 ),
                     
                    );
 }
+{
+$data['f4'] = array(
+                    '1'=> array(
+                                'question'=>'',
+                                'answer'=> "fd1"
+                                ),
+                    '2'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd2'
+                                ),
+                    '3'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd3'
+                                ),
+                    '4'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd4'
+                                ),
+                    '5'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd5'
+                                ),
+                    '6'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd6'
+                                ),
+                    '7'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd7'
+                                ),
+                    '8'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd8'
+                                ),
+                    '9'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd9'
+                                ),
+                    '10'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd10'
+                                ),
+                    '11'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd11'
+                                ),
+                    '12'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd12'
+                                ),
+                    '13'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd13'
+                                ),
+                    '14'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd14'
+                                ),
+                    '15'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd15'
+                                ),
+                    '16'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd16'
+                                ),
+                    '17'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd17'
+                                ),
+                    '18'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd18'
+                                ),
+                    '19'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd19'
+                                ),
+                    '20'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd20'
+                                ),
+                    '21'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd21'
+                                ),
+                    '22'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd22'
+                                ),
+                    '23'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd23'
+                                ),
+                    '24'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd24'
+                                ),
+                    '25'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd25'
+                                ),
+                    '26'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd26'
+                                ),
+                    '27'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd27'
+                                ),
+                    '28'=> array(
+                                'question'=>'',
+                                'answer'=> 'fd28'
+                                ),
+                   );
+}
+
 //xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 {
 $data['f'] = array(
