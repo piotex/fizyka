@@ -31,7 +31,7 @@ $data['f1'] = array(
                                 'answer'=> "fa2"
                                 ),
                     '3'=> array(
-                                'question'=>'1.3 W czasir pierwszych 30 minut kierowca jedzie atostradą z Krakowa do Chrzanowa ze średnią prędkością 95 km/h. Następnie zjeżdża z autostrady i     przez kolejne 45 minut porusza się ze średnią szybkością 45 km/h. Oblicz średnią szybkość kierowcy na całej trasie.',
+                                'question'=>'1.3 W czasir pierwszych 30 minut kierowca jedzie atostradą z Krakowa do Chrzanowa ze średnią prędkością 95 km/h. Następnie zjeżdża z autostrady i przez kolejne 45 minut porusza się ze średnią szybkością 45 km/h. Oblicz średnią szybkość kierowcy na całej trasie.',
                                 'answer'=> "fa3"
                                 ),
                     '4'=> array(
@@ -47,7 +47,7 @@ $data['f1'] = array(
                                 'answer'=> 'fa6'
                                 ),
                     '7'=> array(
-                                'question'=>'1.7 Oblicz średnią szybkość kierowcy na trasie Kraków-Sandomierz, wiedząc,że przez pierwszą połowę czasu poruszał się on ze średnia prędkością 50     km/h, a przez drugą połowę, ze śrenią prędkością 80 km/h',
+                                'question'=>'1.7 Oblicz średnią szybkość kierowcy na trasie Kraków-Sandomierz, wiedząc,że przez pierwszą połowę czasu poruszał się on ze średnia prędkością 50km/h, a przez drugą połowę, ze śrenią prędkością 80 km/h',
                                 'answer'=> 'fa7'
                                 ),
                     '8'=> array(
@@ -58,15 +58,15 @@ $data['f1'] = array(
                                 'answer'=> 'fa8'
                                 ),
                     '9'=> array(
-                                'question'=>'1.9 Średnia szybkość motocykli na całej drodze była równa 30 m/s. Jeżeli 1/3 drogi przebył z szybkością 2 razy większą niż pozostałe 2/3 drogi, to    z jaką szybkością średnią przebył każdy z odcinków?',
+                                'question'=>'1.9 Średnia szybkość motocykli na całej drodze była równa 30 m/s. Jeżeli 1/3 drogi przebył z szybkością 2 razy większą niż pozostałe 2/3 drogi, to z jaką szybkością średnią przebył każdy z odcinków?',
                                 'answer'=> 'fa9'
                                 ),
                     '10'=> array(
-                                'question'=>'1.10 Motocyklista całą trasę przebył ze średnią szybkością 90 km/h. Oblicz z jaką średnią szybkością poruszal się w pierwszej połowie czasu ruchu,    jeżeli jego śrenia szybkość była wówczas trzy razy mniejsza niż w drugiej połowie czasu.',
+                                'question'=>'1.10 Motocyklista całą trasę przebył ze średnią szybkością 90 km/h. Oblicz z jaką średnią szybkością poruszal się w pierwszej połowie czasu ruchu, jeżeli jego śrenia szybkość była wówczas trzy razy mniejsza niż w drugiej połowie czasu.',
                                 'answer'=> 'fa10'
                                 ),
                     '11'=> array(
-                                'question'=>'1.11 Marysia wyszła z domu do sklepu oddalonego o 300 m. W sklepie zorientowała się, że nie wzieła portfela, więc musiała wrócić do domu. Oblicz      średnią prędkość dziewczynki , jeżeli od jej wyjśia z domu do jej powrotu mineło 10 minut',
+                                'question'=>'1.11 Marysia wyszła z domu do sklepu oddalonego o 300 m. W sklepie zorientowała się, że nie wzieła portfela, więc musiała wrócić do domu. Oblicz średnią prędkość dziewczynki , jeżeli od jej wyjśia z domu do jej powrotu mineło 10 minut',
                                 'answer'=> 'fa11'
                                 ),
                     '12'=> array(
@@ -93,7 +93,7 @@ $data['f1'] = array(
                                 'question'=>'1.15 Pies przebiegł po trawniku z punktu P do punktu K w czasie 14 sekund. Tor jego ruchu przedstawia odcinek PK na wykresie y(x).
                                   a) Rozstrzygnij, czy na podstawie wykresu można wyciągnąć wniosk, jakim rodzajem ruchu poruszał się pies,
                                   b) Oblicz drogę drogę przebytą przez psa. 
-                                  Mając dodatową iformacjeę, że ruch psa był ruchem jednostajnym oblicz:
+                                  Mając dodatową iformację, że ruch psa był ruchem jednostajnym oblicz:
                                   c) jego szybkość 
                                   d) współrzędne v(x) i v(y) jego prędkosci.',
                                 'answer'=> 'fa15'
@@ -114,7 +114,7 @@ $data['f1'] = array(
                                 'answer'=> 'fa18'
                                 ),
                     '19'=> array(
-                                'question'=>'1.19 PanZbyszek z Gniezna i pan Roman z Warszawy odległej od Gniezna o 240 km umówili się o 10 rano wyjadą ze swoich miejscowości - pan Zbyszek w kierunku Warszawy, a pan Roman w kierunku Gniezna...',
+                                'question'=>'1.19 Pan Zbyszek z Gniezna i pan Roman z Warszawy odległej od Gniezna o 240 km umówili się o 10 rano wyjadą ze swoich miejscowości - pan Zbyszek w kierunku Warszawy, a pan Roman w kierunku Gniezna...',
                                 'answer'=> 'fa19'
                                 ),
                     '20'=> array(
@@ -747,129 +747,129 @@ $data['f3'] = array(
                     
                    );
 }
+//4
 {
 $data['f4'] = array(
                     '1'=> array(
-                                'question'=>'',
+                                'question'=>'Naczynie w kształcie walca o średnicy podstawy równej d zawiera pewną ilość cieczy. Całą ciecz przelano do drugiego naczynia o pionowych ściankach bocznych którego podstawa jest kwadratem o boku d...',
                                 'answer'=> "fd1"
                                 ),
                     '2'=> array(
-                                'question'=>'',
+                                'question'=>'Do pojemnika w kształcie prostopadłościanu którego podstawa jest kwadratem o boku 6cm wlano rtęć wodę i oliwę. Masy rtęci i wody są jednakowe, a masa oliwy dwa razy mniejsza od masy wody. Całkowita wysokość słupa cieczy wynosi 40cm. Oblicz...',
                                 'answer'=> 'fd2'
                                 ),
                     '3'=> array(
-                                'question'=>'',
+                                'question'=>'Naczynie ma kształt pokazany na rysunku. Podane są pola powierzchnipoziomych przekrrojów obu części naczynia...',
                                 'answer'=> 'fd3'
                                 ),
                     '4'=> array(
-                                'question'=>'',
+                                'question'=>'Naczynie w kształcie cylindra o średnicy 30cm i wysokości 50cm wypełniono do połowy oliwą. Następnie pojemnik umieszczono w windzie...',
                                 'answer'=> 'fd4'
                                 ),
                     '5'=> array(
-                                'question'=>'',
+                                'question'=>'Do cylindrycznego naczynia o promieniu podstawy 5cm i wysokości 30cm nalano do pełna wodę. Oblicz ile razy większa...',
                                 'answer'=> 'fd5'
                                 ),
                     '6'=> array(
-                                'question'=>'',
+                                'question'=>'Za pomocą rurki zgiętej w kształcie litery U można wyznaczyć nieznaną gęstość cieczy. W tym celu do rurki nalewamy wode...',
                                 'answer'=> 'fd6'
                                 ),
                     '7'=> array(
-                                'question'=>'',
+                                'question'=>'W naczyniu w kształcie litery U znajduje się woda. Do jednego z ramion dolano nafty która utworzyła słupek o wysokości 4,5cm a do drugiego oleju słonecznikowego...',
                                 'answer'=> 'fd7'
                                 ),
                     '8'=> array(
-                                'question'=>'',
+                                'question'=>'Do U-rurki wlano wodę a do jednego z ramion dolano nieco oleju słonecznikowego. Długość słupka oleju była równa 10cm...',
                                 'answer'=> 'fd8'
                                 ),
                     '9'=> array(
-                                'question'=>'',
+                                'question'=>'W celu wyznaczenia gęstości cieczy która miesza się z wodą zamiast zwykłej U-rurki można zastosować tzw. rurki Harrego przedstawione na rysunkach...',
                                 'answer'=> 'fd9'
                                 ),
                     '10'=> array(
-                                'question'=>'',
+                                'question'=>'Do mleka o masie m dolano wody o masie 1/8m...',
                                 'answer'=> 'fd10'
                                 ),
                     '11'=> array(
-                                'question'=>'',
+                                'question'=>'Na zajęciach kółka fizycznego uczniowie wykonali doświadczenie którego celem było wyznaczenie gęstości ciała stałego i cieczy. W tym celu...',
                                 'answer'=> 'fd11'
                                 ),
                     '12'=> array(
-                                'question'=>'',
+                                'question'=>'Gdy zawieszoną na haczyku siłomierza bransoletkę całkowicie zanurzono w wodzie wskazanie siłomierza było równe 0,83 ciężaru bransoletki...',
                                 'answer'=> 'fd12'
                                 ),
                     '13'=> array(
-                                'question'=>'',
+                                'question'=>'Korek o gęstości 250kg/m^3 pływa częściowo zanurzony w wodzie. Oblicz stosunek objętości zanurzonej części korka do jego części wynurzonej.',
                                 'answer'=> 'fd13'
                                 ),
                     '14'=> array(
-                                'question'=>'',
+                                'question'=>'Stół udekorowano świeczkami pływającymi w misie z wodą. Oblicz gęstość substancji z której wykonano świece jeżeli ponad powierzchnią znajduje się 1/20 część świeczki.',
                                 'answer'=> 'fd14'
                                 ),
                     '15'=> array(
-                                'question'=>'',
+                                'question'=>'Sześcienny klocek o masie 0,2kg pływa zanurzony w wodzie do 2/5 swojej objętości. Oblicz...',
                                 'answer'=> 'fd15'
                                 ),
                     '16'=> array(
-                                'question'=>'',
+                                'question'=>'Piłkę o masie 0,5kg zanurzono całkowicie w wodzie działając na nią dodatkową siłą o wartości 15N zwróconą w dół...',
                                 'answer'=> 'fd16'
                                 ),
                     '17'=> array(
-                                'question'=>'',
+                                'question'=>'Boja sygnalizacyjna jest wykonaną z żelaza sferą o promieniu zewnątrznym 1m i grubości 0,5m...',
                                 'answer'=> 'fd17'
                                 ),
                     '18'=> array(
-                                'question'=>'',
+                                'question'=>'Do naczynia w którym znajduje się woda a nad nią warstwa nafty włożono sześcian z drewna bukowego o krawędzi 2cm. Oblicz...',
                                 'answer'=> 'fd18'
                                 ),
                     '19'=> array(
-                                'question'=>'',
+                                'question'=>'W naczyniu z wodą i warstwą oleju słonecznikowgo zanurzono sześcian o krawędzi 30cm wykonany z drewna bukowego. Górna powierzchnia sześcianu...',
                                 'answer'=> 'fd19'
                                 ),
                     '20'=> array(
-                                'question'=>'',
+                                'question'=>'Dźwignię dwustronną stanowi lekki sztywny pręt o długości 60cm podparty w środku. Na jednym jego końcy powieszono aluminiową kulkę...',
                                 'answer'=> 'fd20'
                                 ),
                     '21'=> array(
-                                'question'=>'',
+                                'question'=>'Probówkę o przekroju poprzecznym S obciążono wrzucając do niej niewielki kamyk aby pływała w pozycji pionowej. Masa probówki wraz z kamykiem jest równa m...',
                                 'answer'=> 'fd21'
                                 ),
                     '22'=> array(
-                                'question'=>'',
+                                'question'=>'Areometr o masie 20g jest zasklepioną na obu końcach rurką szklaną o jednakowym na całej długości przekroju poprzecznym równym 1cm^3...',
                                 'answer'=> 'fd22'
                                 ),
                     '23'=> array(
-                                'question'=>'',
+                                'question'=>'Na lewej szalce wagi laboratoryjnej postawiono naczynie z wodą a na prawej położono odważnik o takiej samej masie że waga jest w równowadze...',
                                 'answer'=> 'fd23'
                                 ),
                     '24'=> array(
-                                'question'=>'',
+                                'question'=>'Na lewej szalce wagi postawiono naczynie z wodą a na prawej położono odważnik o takiej samej masie że waga jest w równowadze...',
                                 'answer'=> 'fd24'
                                 ),
                     '25'=> array(
-                                'question'=>'',
+                                'question'=>'Na wadze zamiast lewej szalki powieszono wiaderko wypełnione po brzegi wodą a na prawej szalce położono odważnik o takiej masie że waga pozostaje w równowadze...',
                                 'answer'=> 'fd25'
                                 ),
                     '26'=> array(
-                                'question'=>'',
+                                'question'=>'Na wadze zamiast lewej szalki powieszono wiaderko wypełnione po brzegi wodą. Na prawej szalce położono odważnik o takiej masie że waga pozostawała...',
                                 'answer'=> 'fd26'
                                 ),
                     '27'=> array(
-                                'question'=>'',
+                                'question'=>'Piłeczkę o promieniu 1,5cm i gęstości 750kg/m^3 puszczono z dna basenu. Oblicz...',
                                 'answer'=> 'fd27'
                                 ),
                     '28'=> array(
-                                'question'=>'',
+                                'question'=>'Z wysokości 180cm nad powierzchnią dużego zbiornika wody upuszczono kulkę o średnicy 4cm i gęstości 600kg/m^3. Oblicz...',
                                 'answer'=> 'fd28'
                                 ),
                    );
 }
-
-//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//5
 {
-$data['f'] = array(
+$data['f5'] = array(
                     '1'=> array(
                                 'question'=>'',
-                                'answer'=> "f1"
+                                'answer'=> "fe1"
                                 ),
                     '2'=> array(
                                 'question'=>'',
@@ -1158,6 +1158,2367 @@ $data['f'] = array(
                     
                    );
 }
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+{
+$data['f6'] = array(
+                    '1'=> array(
+                                'question'=>'',
+                                'answer'=> "ff1"
+                                ),
+                    '2'=> array(
+                                'question'=>'',
+                                'answer'=> 'f2'
+                                ),
+                    '3'=> array(
+                                'question'=>'',
+                                'answer'=> 'f3'
+                                ),
+                    '4'=> array(
+                                'question'=>'',
+                                'answer'=> 'f4'
+                                ),
+                    '5'=> array(
+                                'question'=>'',
+                                'answer'=> 'f5'
+                                ),
+                    '6'=> array(
+                                'question'=>'',
+                                'answer'=> 'f6'
+                                ),
+                    '7'=> array(
+                                'question'=>'',
+                                'answer'=> 'f7'
+                                ),
+                    '8'=> array(
+                                'question'=>'',
+                                'answer'=> 'f8'
+                                ),
+                    '9'=> array(
+                                'question'=>'',
+                                'answer'=> 'f9'
+                                ),
+                    '10'=> array(
+                                'question'=>'',
+                                'answer'=> 'f10'
+                                ),
+                    '11'=> array(
+                                'question'=>'',
+                                'answer'=> 'f11'
+                                ),
+                    '12'=> array(
+                                'question'=>'',
+                                'answer'=> 'f12'
+                                ),
+                    '13'=> array(
+                                'question'=>'',
+                                'answer'=> 'f13'
+                                ),
+                    '14'=> array(
+                                'question'=>'',
+                                'answer'=> 'f14'
+                                ),
+                    '15'=> array(
+                                'question'=>'',
+                                'answer'=> 'f15'
+                                ),
+                    '16'=> array(
+                                'question'=>'',
+                                'answer'=> 'f16'
+                                ),
+                    '17'=> array(
+                                'question'=>'',
+                                'answer'=> 'f17'
+                                ),
+                    '18'=> array(
+                                'question'=>'',
+                                'answer'=> 'f18'
+                                ),
+                    '19'=> array(
+                                'question'=>'',
+                                'answer'=> 'f19'
+                                ),
+                    '20'=> array(
+                                'question'=>'',
+                                'answer'=> 'f20'
+                                ),
+                    '21'=> array(
+                                'question'=>'',
+                                'answer'=> 'f21'
+                                ),
+                    '22'=> array(
+                                'question'=>'',
+                                'answer'=> 'f22'
+                                ),
+                    '23'=> array(
+                                'question'=>'',
+                                'answer'=> 'f23'
+                                ),
+                    '24'=> array(
+                                'question'=>'',
+                                'answer'=> 'f24'
+                                ),
+                    '25'=> array(
+                                'question'=>'',
+                                'answer'=> 'f25'
+                                ),
+                    '26'=> array(
+                                'question'=>'',
+                                'answer'=> 'f26'
+                                ),
+                    '27'=> array(
+                                'question'=>'',
+                                'answer'=> 'f27'
+                                ),
+                    '28'=> array(
+                                'question'=>'',
+                                'answer'=> 'f28'
+                                ),
+                    '29'=> array(
+                                'question'=>'',
+                                'answer'=> 'f29'
+                                ),
+                    '30'=> array(
+                                'question'=>'',
+                                'answer'=> 'f30'
+                                ),
+                    '31'=> array(
+                                'question'=>'',
+                                'answer'=> 'f31'
+                                ),
+                    '32'=> array(
+                                'question'=>'',
+                                'answer'=> 'f32'
+                                ),
+                    '33'=> array(
+                                'question'=>'',
+                                'answer'=> 'f33'
+                                ),
+                    '34'=> array(
+                                'question'=>'',
+                                'answer'=> 'f34'
+                                ),
+                    '35'=> array(
+                                'question'=>'',
+                                'answer'=> 'f35'
+                                ),
+                    '36'=> array(
+                                'question'=>'',
+                                'answer'=> 'f36'
+                                ),
+                    '37'=> array(
+                                'question'=>'',
+                                'answer'=> 'f37'
+                                ),
+                    '38'=> array(
+                                'question'=>'',
+                                'answer'=> 'f38'
+                                ),
+                    '39'=> array(
+                                'question'=>'',
+                                'answer'=> 'f39'
+                                ),
+                    '40'=> array(
+                                'question'=>'',
+                                'answer'=> 'f40'
+                                ),
+                    '41'=> array(
+                                'question'=>'',
+                                'answer'=> 'f41'
+                                ),
+                    '42'=> array(
+                                'question'=>'',
+                                'answer'=> 'f42'
+                                ),
+                    '43'=> array(
+                                'question'=>'',
+                                'answer'=> 'f43'
+                                ),
+                    '44'=> array(
+                                'question'=>'',
+                                'answer'=> 'f44'
+                                ),
+                    '45'=> array(
+                                'question'=>'',
+                                'answer'=> 'f45'
+                                ),
+                    '46'=> array(
+                                'question'=>'',
+                                'answer'=> 'f46'
+                                ),
+                    '47'=> array(
+                                'question'=>'',
+                                'answer'=> 'f47'
+                                ),
+                    '48'=> array(
+                                'question'=>'',
+                                'answer'=> 'f48'
+                                ),
+                    '49'=> array(
+                                'question'=>'',
+                                'answer'=> 'f49'
+                                ),
+                    '50'=> array(
+                                'question'=>'',
+                                'answer'=> 'f50'
+                                ),
+                    '51'=> array(
+                                'question'=>'',
+                                'answer'=> 'f51'
+                                ),
+                    '52'=> array(
+                                'question'=>'',
+                                'answer'=> 'f52'
+                                ),
+                    '53'=> array(
+                                'question'=>'',
+                                'answer'=> 'f53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'f54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'f55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'f56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'f57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'f58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'f59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'f60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'f61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'f62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'f63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'f64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'f65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'f66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'f67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'f68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'f69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'f70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'f71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'f72'
+                                ),
+                    
+                   );
+}
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+{
+$data['f7'] = array(
+                    '1'=> array(
+                                'question'=>'',
+                                'answer'=> "fg1"
+                                ),
+                    '2'=> array(
+                                'question'=>'',
+                                'answer'=> 'f2'
+                                ),
+                    '3'=> array(
+                                'question'=>'',
+                                'answer'=> 'f3'
+                                ),
+                    '4'=> array(
+                                'question'=>'',
+                                'answer'=> 'f4'
+                                ),
+                    '5'=> array(
+                                'question'=>'',
+                                'answer'=> 'f5'
+                                ),
+                    '6'=> array(
+                                'question'=>'',
+                                'answer'=> 'f6'
+                                ),
+                    '7'=> array(
+                                'question'=>'',
+                                'answer'=> 'f7'
+                                ),
+                    '8'=> array(
+                                'question'=>'',
+                                'answer'=> 'f8'
+                                ),
+                    '9'=> array(
+                                'question'=>'',
+                                'answer'=> 'f9'
+                                ),
+                    '10'=> array(
+                                'question'=>'',
+                                'answer'=> 'f10'
+                                ),
+                    '11'=> array(
+                                'question'=>'',
+                                'answer'=> 'f11'
+                                ),
+                    '12'=> array(
+                                'question'=>'',
+                                'answer'=> 'f12'
+                                ),
+                    '13'=> array(
+                                'question'=>'',
+                                'answer'=> 'f13'
+                                ),
+                    '14'=> array(
+                                'question'=>'',
+                                'answer'=> 'f14'
+                                ),
+                    '15'=> array(
+                                'question'=>'',
+                                'answer'=> 'f15'
+                                ),
+                    '16'=> array(
+                                'question'=>'',
+                                'answer'=> 'f16'
+                                ),
+                    '17'=> array(
+                                'question'=>'',
+                                'answer'=> 'f17'
+                                ),
+                    '18'=> array(
+                                'question'=>'',
+                                'answer'=> 'f18'
+                                ),
+                    '19'=> array(
+                                'question'=>'',
+                                'answer'=> 'f19'
+                                ),
+                    '20'=> array(
+                                'question'=>'',
+                                'answer'=> 'f20'
+                                ),
+                    '21'=> array(
+                                'question'=>'',
+                                'answer'=> 'f21'
+                                ),
+                    '22'=> array(
+                                'question'=>'',
+                                'answer'=> 'f22'
+                                ),
+                    '23'=> array(
+                                'question'=>'',
+                                'answer'=> 'f23'
+                                ),
+                    '24'=> array(
+                                'question'=>'',
+                                'answer'=> 'f24'
+                                ),
+                    '25'=> array(
+                                'question'=>'',
+                                'answer'=> 'f25'
+                                ),
+                    '26'=> array(
+                                'question'=>'',
+                                'answer'=> 'f26'
+                                ),
+                    '27'=> array(
+                                'question'=>'',
+                                'answer'=> 'f27'
+                                ),
+                    '28'=> array(
+                                'question'=>'',
+                                'answer'=> 'f28'
+                                ),
+                    '29'=> array(
+                                'question'=>'',
+                                'answer'=> 'f29'
+                                ),
+                    '30'=> array(
+                                'question'=>'',
+                                'answer'=> 'f30'
+                                ),
+                    '31'=> array(
+                                'question'=>'',
+                                'answer'=> 'f31'
+                                ),
+                    '32'=> array(
+                                'question'=>'',
+                                'answer'=> 'f32'
+                                ),
+                    '33'=> array(
+                                'question'=>'',
+                                'answer'=> 'f33'
+                                ),
+                    '34'=> array(
+                                'question'=>'',
+                                'answer'=> 'f34'
+                                ),
+                    '35'=> array(
+                                'question'=>'',
+                                'answer'=> 'f35'
+                                ),
+                    '36'=> array(
+                                'question'=>'',
+                                'answer'=> 'f36'
+                                ),
+                    '37'=> array(
+                                'question'=>'',
+                                'answer'=> 'f37'
+                                ),
+                    '38'=> array(
+                                'question'=>'',
+                                'answer'=> 'f38'
+                                ),
+                    '39'=> array(
+                                'question'=>'',
+                                'answer'=> 'f39'
+                                ),
+                    '40'=> array(
+                                'question'=>'',
+                                'answer'=> 'f40'
+                                ),
+                    '41'=> array(
+                                'question'=>'',
+                                'answer'=> 'f41'
+                                ),
+                    '42'=> array(
+                                'question'=>'',
+                                'answer'=> 'f42'
+                                ),
+                    '43'=> array(
+                                'question'=>'',
+                                'answer'=> 'f43'
+                                ),
+                    '44'=> array(
+                                'question'=>'',
+                                'answer'=> 'f44'
+                                ),
+                    '45'=> array(
+                                'question'=>'',
+                                'answer'=> 'f45'
+                                ),
+                    '46'=> array(
+                                'question'=>'',
+                                'answer'=> 'f46'
+                                ),
+                    '47'=> array(
+                                'question'=>'',
+                                'answer'=> 'f47'
+                                ),
+                    '48'=> array(
+                                'question'=>'',
+                                'answer'=> 'f48'
+                                ),
+                    '49'=> array(
+                                'question'=>'',
+                                'answer'=> 'f49'
+                                ),
+                    '50'=> array(
+                                'question'=>'',
+                                'answer'=> 'f50'
+                                ),
+                    '51'=> array(
+                                'question'=>'',
+                                'answer'=> 'f51'
+                                ),
+                    '52'=> array(
+                                'question'=>'',
+                                'answer'=> 'f52'
+                                ),
+                    '53'=> array(
+                                'question'=>'',
+                                'answer'=> 'f53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'f54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'f55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'f56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'f57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'f58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'f59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'f60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'f61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'f62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'f63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'f64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'f65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'f66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'f67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'f68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'f69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'f70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'f71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'f72'
+                                ),
+                    
+                   );
+}
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+{
+$data['f8'] = array(
+                    '1'=> array(
+                                'question'=>'',
+                                'answer'=> "fh1"
+                                ),
+                    '2'=> array(
+                                'question'=>'',
+                                'answer'=> 'f2'
+                                ),
+                    '3'=> array(
+                                'question'=>'',
+                                'answer'=> 'f3'
+                                ),
+                    '4'=> array(
+                                'question'=>'',
+                                'answer'=> 'f4'
+                                ),
+                    '5'=> array(
+                                'question'=>'',
+                                'answer'=> 'f5'
+                                ),
+                    '6'=> array(
+                                'question'=>'',
+                                'answer'=> 'f6'
+                                ),
+                    '7'=> array(
+                                'question'=>'',
+                                'answer'=> 'f7'
+                                ),
+                    '8'=> array(
+                                'question'=>'',
+                                'answer'=> 'f8'
+                                ),
+                    '9'=> array(
+                                'question'=>'',
+                                'answer'=> 'f9'
+                                ),
+                    '10'=> array(
+                                'question'=>'',
+                                'answer'=> 'f10'
+                                ),
+                    '11'=> array(
+                                'question'=>'',
+                                'answer'=> 'f11'
+                                ),
+                    '12'=> array(
+                                'question'=>'',
+                                'answer'=> 'f12'
+                                ),
+                    '13'=> array(
+                                'question'=>'',
+                                'answer'=> 'f13'
+                                ),
+                    '14'=> array(
+                                'question'=>'',
+                                'answer'=> 'f14'
+                                ),
+                    '15'=> array(
+                                'question'=>'',
+                                'answer'=> 'f15'
+                                ),
+                    '16'=> array(
+                                'question'=>'',
+                                'answer'=> 'f16'
+                                ),
+                    '17'=> array(
+                                'question'=>'',
+                                'answer'=> 'f17'
+                                ),
+                    '18'=> array(
+                                'question'=>'',
+                                'answer'=> 'f18'
+                                ),
+                    '19'=> array(
+                                'question'=>'',
+                                'answer'=> 'f19'
+                                ),
+                    '20'=> array(
+                                'question'=>'',
+                                'answer'=> 'f20'
+                                ),
+                    '21'=> array(
+                                'question'=>'',
+                                'answer'=> 'f21'
+                                ),
+                    '22'=> array(
+                                'question'=>'',
+                                'answer'=> 'f22'
+                                ),
+                    '23'=> array(
+                                'question'=>'',
+                                'answer'=> 'f23'
+                                ),
+                    '24'=> array(
+                                'question'=>'',
+                                'answer'=> 'f24'
+                                ),
+                    '25'=> array(
+                                'question'=>'',
+                                'answer'=> 'f25'
+                                ),
+                    '26'=> array(
+                                'question'=>'',
+                                'answer'=> 'f26'
+                                ),
+                    '27'=> array(
+                                'question'=>'',
+                                'answer'=> 'f27'
+                                ),
+                    '28'=> array(
+                                'question'=>'',
+                                'answer'=> 'f28'
+                                ),
+                    '29'=> array(
+                                'question'=>'',
+                                'answer'=> 'f29'
+                                ),
+                    '30'=> array(
+                                'question'=>'',
+                                'answer'=> 'f30'
+                                ),
+                    '31'=> array(
+                                'question'=>'',
+                                'answer'=> 'f31'
+                                ),
+                    '32'=> array(
+                                'question'=>'',
+                                'answer'=> 'f32'
+                                ),
+                    '33'=> array(
+                                'question'=>'',
+                                'answer'=> 'f33'
+                                ),
+                    '34'=> array(
+                                'question'=>'',
+                                'answer'=> 'f34'
+                                ),
+                    '35'=> array(
+                                'question'=>'',
+                                'answer'=> 'f35'
+                                ),
+                    '36'=> array(
+                                'question'=>'',
+                                'answer'=> 'f36'
+                                ),
+                    '37'=> array(
+                                'question'=>'',
+                                'answer'=> 'f37'
+                                ),
+                    '38'=> array(
+                                'question'=>'',
+                                'answer'=> 'f38'
+                                ),
+                    '39'=> array(
+                                'question'=>'',
+                                'answer'=> 'f39'
+                                ),
+                    '40'=> array(
+                                'question'=>'',
+                                'answer'=> 'f40'
+                                ),
+                    '41'=> array(
+                                'question'=>'',
+                                'answer'=> 'f41'
+                                ),
+                    '42'=> array(
+                                'question'=>'',
+                                'answer'=> 'f42'
+                                ),
+                    '43'=> array(
+                                'question'=>'',
+                                'answer'=> 'f43'
+                                ),
+                    '44'=> array(
+                                'question'=>'',
+                                'answer'=> 'f44'
+                                ),
+                    '45'=> array(
+                                'question'=>'',
+                                'answer'=> 'f45'
+                                ),
+                    '46'=> array(
+                                'question'=>'',
+                                'answer'=> 'f46'
+                                ),
+                    '47'=> array(
+                                'question'=>'',
+                                'answer'=> 'f47'
+                                ),
+                    '48'=> array(
+                                'question'=>'',
+                                'answer'=> 'f48'
+                                ),
+                    '49'=> array(
+                                'question'=>'',
+                                'answer'=> 'f49'
+                                ),
+                    '50'=> array(
+                                'question'=>'',
+                                'answer'=> 'f50'
+                                ),
+                    '51'=> array(
+                                'question'=>'',
+                                'answer'=> 'f51'
+                                ),
+                    '52'=> array(
+                                'question'=>'',
+                                'answer'=> 'f52'
+                                ),
+                    '53'=> array(
+                                'question'=>'',
+                                'answer'=> 'f53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'f54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'f55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'f56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'f57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'f58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'f59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'f60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'f61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'f62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'f63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'f64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'f65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'f66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'f67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'f68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'f69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'f70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'f71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'f72'
+                                ),
+                    
+                   );
+}
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+{
+$data['f9'] = array(
+                    '1'=> array(
+                                'question'=>'',
+                                'answer'=> "fi1"
+                                ),
+                    '2'=> array(
+                                'question'=>'',
+                                'answer'=> 'f2'
+                                ),
+                    '3'=> array(
+                                'question'=>'',
+                                'answer'=> 'f3'
+                                ),
+                    '4'=> array(
+                                'question'=>'',
+                                'answer'=> 'f4'
+                                ),
+                    '5'=> array(
+                                'question'=>'',
+                                'answer'=> 'f5'
+                                ),
+                    '6'=> array(
+                                'question'=>'',
+                                'answer'=> 'f6'
+                                ),
+                    '7'=> array(
+                                'question'=>'',
+                                'answer'=> 'f7'
+                                ),
+                    '8'=> array(
+                                'question'=>'',
+                                'answer'=> 'f8'
+                                ),
+                    '9'=> array(
+                                'question'=>'',
+                                'answer'=> 'f9'
+                                ),
+                    '10'=> array(
+                                'question'=>'',
+                                'answer'=> 'f10'
+                                ),
+                    '11'=> array(
+                                'question'=>'',
+                                'answer'=> 'f11'
+                                ),
+                    '12'=> array(
+                                'question'=>'',
+                                'answer'=> 'f12'
+                                ),
+                    '13'=> array(
+                                'question'=>'',
+                                'answer'=> 'f13'
+                                ),
+                    '14'=> array(
+                                'question'=>'',
+                                'answer'=> 'f14'
+                                ),
+                    '15'=> array(
+                                'question'=>'',
+                                'answer'=> 'f15'
+                                ),
+                    '16'=> array(
+                                'question'=>'',
+                                'answer'=> 'f16'
+                                ),
+                    '17'=> array(
+                                'question'=>'',
+                                'answer'=> 'f17'
+                                ),
+                    '18'=> array(
+                                'question'=>'',
+                                'answer'=> 'f18'
+                                ),
+                    '19'=> array(
+                                'question'=>'',
+                                'answer'=> 'f19'
+                                ),
+                    '20'=> array(
+                                'question'=>'',
+                                'answer'=> 'f20'
+                                ),
+                    '21'=> array(
+                                'question'=>'',
+                                'answer'=> 'f21'
+                                ),
+                    '22'=> array(
+                                'question'=>'',
+                                'answer'=> 'f22'
+                                ),
+                    '23'=> array(
+                                'question'=>'',
+                                'answer'=> 'f23'
+                                ),
+                    '24'=> array(
+                                'question'=>'',
+                                'answer'=> 'f24'
+                                ),
+                    '25'=> array(
+                                'question'=>'',
+                                'answer'=> 'f25'
+                                ),
+                    '26'=> array(
+                                'question'=>'',
+                                'answer'=> 'f26'
+                                ),
+                    '27'=> array(
+                                'question'=>'',
+                                'answer'=> 'f27'
+                                ),
+                    '28'=> array(
+                                'question'=>'',
+                                'answer'=> 'f28'
+                                ),
+                    '29'=> array(
+                                'question'=>'',
+                                'answer'=> 'f29'
+                                ),
+                    '30'=> array(
+                                'question'=>'',
+                                'answer'=> 'f30'
+                                ),
+                    '31'=> array(
+                                'question'=>'',
+                                'answer'=> 'f31'
+                                ),
+                    '32'=> array(
+                                'question'=>'',
+                                'answer'=> 'f32'
+                                ),
+                    '33'=> array(
+                                'question'=>'',
+                                'answer'=> 'f33'
+                                ),
+                    '34'=> array(
+                                'question'=>'',
+                                'answer'=> 'f34'
+                                ),
+                    '35'=> array(
+                                'question'=>'',
+                                'answer'=> 'f35'
+                                ),
+                    '36'=> array(
+                                'question'=>'',
+                                'answer'=> 'f36'
+                                ),
+                    '37'=> array(
+                                'question'=>'',
+                                'answer'=> 'f37'
+                                ),
+                    '38'=> array(
+                                'question'=>'',
+                                'answer'=> 'f38'
+                                ),
+                    '39'=> array(
+                                'question'=>'',
+                                'answer'=> 'f39'
+                                ),
+                    '40'=> array(
+                                'question'=>'',
+                                'answer'=> 'f40'
+                                ),
+                    '41'=> array(
+                                'question'=>'',
+                                'answer'=> 'f41'
+                                ),
+                    '42'=> array(
+                                'question'=>'',
+                                'answer'=> 'f42'
+                                ),
+                    '43'=> array(
+                                'question'=>'',
+                                'answer'=> 'f43'
+                                ),
+                    '44'=> array(
+                                'question'=>'',
+                                'answer'=> 'f44'
+                                ),
+                    '45'=> array(
+                                'question'=>'',
+                                'answer'=> 'f45'
+                                ),
+                    '46'=> array(
+                                'question'=>'',
+                                'answer'=> 'f46'
+                                ),
+                    '47'=> array(
+                                'question'=>'',
+                                'answer'=> 'f47'
+                                ),
+                    '48'=> array(
+                                'question'=>'',
+                                'answer'=> 'f48'
+                                ),
+                    '49'=> array(
+                                'question'=>'',
+                                'answer'=> 'f49'
+                                ),
+                    '50'=> array(
+                                'question'=>'',
+                                'answer'=> 'f50'
+                                ),
+                    '51'=> array(
+                                'question'=>'',
+                                'answer'=> 'f51'
+                                ),
+                    '52'=> array(
+                                'question'=>'',
+                                'answer'=> 'f52'
+                                ),
+                    '53'=> array(
+                                'question'=>'',
+                                'answer'=> 'f53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'f54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'f55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'f56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'f57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'f58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'f59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'f60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'f61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'f62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'f63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'f64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'f65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'f66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'f67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'f68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'f69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'f70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'f71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'f72'
+                                ),
+                    
+                   );
+}
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+{
+$data['f10'] = array(
+                    '1'=> array(
+                                'question'=>'',
+                                'answer'=> "fj1"
+                                ),
+                    '2'=> array(
+                                'question'=>'',
+                                'answer'=> 'f2'
+                                ),
+                    '3'=> array(
+                                'question'=>'',
+                                'answer'=> 'f3'
+                                ),
+                    '4'=> array(
+                                'question'=>'',
+                                'answer'=> 'f4'
+                                ),
+                    '5'=> array(
+                                'question'=>'',
+                                'answer'=> 'f5'
+                                ),
+                    '6'=> array(
+                                'question'=>'',
+                                'answer'=> 'f6'
+                                ),
+                    '7'=> array(
+                                'question'=>'',
+                                'answer'=> 'f7'
+                                ),
+                    '8'=> array(
+                                'question'=>'',
+                                'answer'=> 'f8'
+                                ),
+                    '9'=> array(
+                                'question'=>'',
+                                'answer'=> 'f9'
+                                ),
+                    '10'=> array(
+                                'question'=>'',
+                                'answer'=> 'f10'
+                                ),
+                    '11'=> array(
+                                'question'=>'',
+                                'answer'=> 'f11'
+                                ),
+                    '12'=> array(
+                                'question'=>'',
+                                'answer'=> 'f12'
+                                ),
+                    '13'=> array(
+                                'question'=>'',
+                                'answer'=> 'f13'
+                                ),
+                    '14'=> array(
+                                'question'=>'',
+                                'answer'=> 'f14'
+                                ),
+                    '15'=> array(
+                                'question'=>'',
+                                'answer'=> 'f15'
+                                ),
+                    '16'=> array(
+                                'question'=>'',
+                                'answer'=> 'f16'
+                                ),
+                    '17'=> array(
+                                'question'=>'',
+                                'answer'=> 'f17'
+                                ),
+                    '18'=> array(
+                                'question'=>'',
+                                'answer'=> 'f18'
+                                ),
+                    '19'=> array(
+                                'question'=>'',
+                                'answer'=> 'f19'
+                                ),
+                    '20'=> array(
+                                'question'=>'',
+                                'answer'=> 'f20'
+                                ),
+                    '21'=> array(
+                                'question'=>'',
+                                'answer'=> 'f21'
+                                ),
+                    '22'=> array(
+                                'question'=>'',
+                                'answer'=> 'f22'
+                                ),
+                    '23'=> array(
+                                'question'=>'',
+                                'answer'=> 'f23'
+                                ),
+                    '24'=> array(
+                                'question'=>'',
+                                'answer'=> 'f24'
+                                ),
+                    '25'=> array(
+                                'question'=>'',
+                                'answer'=> 'f25'
+                                ),
+                    '26'=> array(
+                                'question'=>'',
+                                'answer'=> 'f26'
+                                ),
+                    '27'=> array(
+                                'question'=>'',
+                                'answer'=> 'f27'
+                                ),
+                    '28'=> array(
+                                'question'=>'',
+                                'answer'=> 'f28'
+                                ),
+                    '29'=> array(
+                                'question'=>'',
+                                'answer'=> 'f29'
+                                ),
+                    '30'=> array(
+                                'question'=>'',
+                                'answer'=> 'f30'
+                                ),
+                    '31'=> array(
+                                'question'=>'',
+                                'answer'=> 'f31'
+                                ),
+                    '32'=> array(
+                                'question'=>'',
+                                'answer'=> 'f32'
+                                ),
+                    '33'=> array(
+                                'question'=>'',
+                                'answer'=> 'f33'
+                                ),
+                    '34'=> array(
+                                'question'=>'',
+                                'answer'=> 'f34'
+                                ),
+                    '35'=> array(
+                                'question'=>'',
+                                'answer'=> 'f35'
+                                ),
+                    '36'=> array(
+                                'question'=>'',
+                                'answer'=> 'f36'
+                                ),
+                    '37'=> array(
+                                'question'=>'',
+                                'answer'=> 'f37'
+                                ),
+                    '38'=> array(
+                                'question'=>'',
+                                'answer'=> 'f38'
+                                ),
+                    '39'=> array(
+                                'question'=>'',
+                                'answer'=> 'f39'
+                                ),
+                    '40'=> array(
+                                'question'=>'',
+                                'answer'=> 'f40'
+                                ),
+                    '41'=> array(
+                                'question'=>'',
+                                'answer'=> 'f41'
+                                ),
+                    '42'=> array(
+                                'question'=>'',
+                                'answer'=> 'f42'
+                                ),
+                    '43'=> array(
+                                'question'=>'',
+                                'answer'=> 'f43'
+                                ),
+                    '44'=> array(
+                                'question'=>'',
+                                'answer'=> 'f44'
+                                ),
+                    '45'=> array(
+                                'question'=>'',
+                                'answer'=> 'f45'
+                                ),
+                    '46'=> array(
+                                'question'=>'',
+                                'answer'=> 'f46'
+                                ),
+                    '47'=> array(
+                                'question'=>'',
+                                'answer'=> 'f47'
+                                ),
+                    '48'=> array(
+                                'question'=>'',
+                                'answer'=> 'f48'
+                                ),
+                    '49'=> array(
+                                'question'=>'',
+                                'answer'=> 'f49'
+                                ),
+                    '50'=> array(
+                                'question'=>'',
+                                'answer'=> 'f50'
+                                ),
+                    '51'=> array(
+                                'question'=>'',
+                                'answer'=> 'f51'
+                                ),
+                    '52'=> array(
+                                'question'=>'',
+                                'answer'=> 'f52'
+                                ),
+                    '53'=> array(
+                                'question'=>'',
+                                'answer'=> 'f53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'f54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'f55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'f56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'f57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'f58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'f59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'f60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'f61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'f62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'f63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'f64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'f65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'f66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'f67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'f68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'f69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'f70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'f71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'f72'
+                                ),
+                    
+                   );
+}
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+{
+$data['f11'] = array(
+                    '1'=> array(
+                                'question'=>'',
+                                'answer'=> "fk1"
+                                ),
+                    '2'=> array(
+                                'question'=>'',
+                                'answer'=> 'f2'
+                                ),
+                    '3'=> array(
+                                'question'=>'',
+                                'answer'=> 'f3'
+                                ),
+                    '4'=> array(
+                                'question'=>'',
+                                'answer'=> 'f4'
+                                ),
+                    '5'=> array(
+                                'question'=>'',
+                                'answer'=> 'f5'
+                                ),
+                    '6'=> array(
+                                'question'=>'',
+                                'answer'=> 'f6'
+                                ),
+                    '7'=> array(
+                                'question'=>'',
+                                'answer'=> 'f7'
+                                ),
+                    '8'=> array(
+                                'question'=>'',
+                                'answer'=> 'f8'
+                                ),
+                    '9'=> array(
+                                'question'=>'',
+                                'answer'=> 'f9'
+                                ),
+                    '10'=> array(
+                                'question'=>'',
+                                'answer'=> 'f10'
+                                ),
+                    '11'=> array(
+                                'question'=>'',
+                                'answer'=> 'f11'
+                                ),
+                    '12'=> array(
+                                'question'=>'',
+                                'answer'=> 'f12'
+                                ),
+                    '13'=> array(
+                                'question'=>'',
+                                'answer'=> 'f13'
+                                ),
+                    '14'=> array(
+                                'question'=>'',
+                                'answer'=> 'f14'
+                                ),
+                    '15'=> array(
+                                'question'=>'',
+                                'answer'=> 'f15'
+                                ),
+                    '16'=> array(
+                                'question'=>'',
+                                'answer'=> 'f16'
+                                ),
+                    '17'=> array(
+                                'question'=>'',
+                                'answer'=> 'f17'
+                                ),
+                    '18'=> array(
+                                'question'=>'',
+                                'answer'=> 'f18'
+                                ),
+                    '19'=> array(
+                                'question'=>'',
+                                'answer'=> 'f19'
+                                ),
+                    '20'=> array(
+                                'question'=>'',
+                                'answer'=> 'f20'
+                                ),
+                    '21'=> array(
+                                'question'=>'',
+                                'answer'=> 'f21'
+                                ),
+                    '22'=> array(
+                                'question'=>'',
+                                'answer'=> 'f22'
+                                ),
+                    '23'=> array(
+                                'question'=>'',
+                                'answer'=> 'f23'
+                                ),
+                    '24'=> array(
+                                'question'=>'',
+                                'answer'=> 'f24'
+                                ),
+                    '25'=> array(
+                                'question'=>'',
+                                'answer'=> 'f25'
+                                ),
+                    '26'=> array(
+                                'question'=>'',
+                                'answer'=> 'f26'
+                                ),
+                    '27'=> array(
+                                'question'=>'',
+                                'answer'=> 'f27'
+                                ),
+                    '28'=> array(
+                                'question'=>'',
+                                'answer'=> 'f28'
+                                ),
+                    '29'=> array(
+                                'question'=>'',
+                                'answer'=> 'f29'
+                                ),
+                    '30'=> array(
+                                'question'=>'',
+                                'answer'=> 'f30'
+                                ),
+                    '31'=> array(
+                                'question'=>'',
+                                'answer'=> 'f31'
+                                ),
+                    '32'=> array(
+                                'question'=>'',
+                                'answer'=> 'f32'
+                                ),
+                    '33'=> array(
+                                'question'=>'',
+                                'answer'=> 'f33'
+                                ),
+                    '34'=> array(
+                                'question'=>'',
+                                'answer'=> 'f34'
+                                ),
+                    '35'=> array(
+                                'question'=>'',
+                                'answer'=> 'f35'
+                                ),
+                    '36'=> array(
+                                'question'=>'',
+                                'answer'=> 'f36'
+                                ),
+                    '37'=> array(
+                                'question'=>'',
+                                'answer'=> 'f37'
+                                ),
+                    '38'=> array(
+                                'question'=>'',
+                                'answer'=> 'f38'
+                                ),
+                    '39'=> array(
+                                'question'=>'',
+                                'answer'=> 'f39'
+                                ),
+                    '40'=> array(
+                                'question'=>'',
+                                'answer'=> 'f40'
+                                ),
+                    '41'=> array(
+                                'question'=>'',
+                                'answer'=> 'f41'
+                                ),
+                    '42'=> array(
+                                'question'=>'',
+                                'answer'=> 'f42'
+                                ),
+                    '43'=> array(
+                                'question'=>'',
+                                'answer'=> 'f43'
+                                ),
+                    '44'=> array(
+                                'question'=>'',
+                                'answer'=> 'f44'
+                                ),
+                    '45'=> array(
+                                'question'=>'',
+                                'answer'=> 'f45'
+                                ),
+                    '46'=> array(
+                                'question'=>'',
+                                'answer'=> 'f46'
+                                ),
+                    '47'=> array(
+                                'question'=>'',
+                                'answer'=> 'f47'
+                                ),
+                    '48'=> array(
+                                'question'=>'',
+                                'answer'=> 'f48'
+                                ),
+                    '49'=> array(
+                                'question'=>'',
+                                'answer'=> 'f49'
+                                ),
+                    '50'=> array(
+                                'question'=>'',
+                                'answer'=> 'f50'
+                                ),
+                    '51'=> array(
+                                'question'=>'',
+                                'answer'=> 'f51'
+                                ),
+                    '52'=> array(
+                                'question'=>'',
+                                'answer'=> 'f52'
+                                ),
+                    '53'=> array(
+                                'question'=>'',
+                                'answer'=> 'f53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'f54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'f55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'f56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'f57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'f58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'f59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'f60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'f61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'f62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'f63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'f64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'f65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'f66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'f67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'f68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'f69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'f70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'f71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'f72'
+                                ),
+                    
+                   );
+}
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+{
+$data['f12'] = array(
+                    '1'=> array(
+                                'question'=>'',
+                                'answer'=> "fl1"
+                                ),
+                    '2'=> array(
+                                'question'=>'',
+                                'answer'=> 'f2'
+                                ),
+                    '3'=> array(
+                                'question'=>'',
+                                'answer'=> 'f3'
+                                ),
+                    '4'=> array(
+                                'question'=>'',
+                                'answer'=> 'f4'
+                                ),
+                    '5'=> array(
+                                'question'=>'',
+                                'answer'=> 'f5'
+                                ),
+                    '6'=> array(
+                                'question'=>'',
+                                'answer'=> 'f6'
+                                ),
+                    '7'=> array(
+                                'question'=>'',
+                                'answer'=> 'f7'
+                                ),
+                    '8'=> array(
+                                'question'=>'',
+                                'answer'=> 'f8'
+                                ),
+                    '9'=> array(
+                                'question'=>'',
+                                'answer'=> 'f9'
+                                ),
+                    '10'=> array(
+                                'question'=>'',
+                                'answer'=> 'f10'
+                                ),
+                    '11'=> array(
+                                'question'=>'',
+                                'answer'=> 'f11'
+                                ),
+                    '12'=> array(
+                                'question'=>'',
+                                'answer'=> 'f12'
+                                ),
+                    '13'=> array(
+                                'question'=>'',
+                                'answer'=> 'f13'
+                                ),
+                    '14'=> array(
+                                'question'=>'',
+                                'answer'=> 'f14'
+                                ),
+                    '15'=> array(
+                                'question'=>'',
+                                'answer'=> 'f15'
+                                ),
+                    '16'=> array(
+                                'question'=>'',
+                                'answer'=> 'f16'
+                                ),
+                    '17'=> array(
+                                'question'=>'',
+                                'answer'=> 'f17'
+                                ),
+                    '18'=> array(
+                                'question'=>'',
+                                'answer'=> 'f18'
+                                ),
+                    '19'=> array(
+                                'question'=>'',
+                                'answer'=> 'f19'
+                                ),
+                    '20'=> array(
+                                'question'=>'',
+                                'answer'=> 'f20'
+                                ),
+                    '21'=> array(
+                                'question'=>'',
+                                'answer'=> 'f21'
+                                ),
+                    '22'=> array(
+                                'question'=>'',
+                                'answer'=> 'f22'
+                                ),
+                    '23'=> array(
+                                'question'=>'',
+                                'answer'=> 'f23'
+                                ),
+                    '24'=> array(
+                                'question'=>'',
+                                'answer'=> 'f24'
+                                ),
+                    '25'=> array(
+                                'question'=>'',
+                                'answer'=> 'f25'
+                                ),
+                    '26'=> array(
+                                'question'=>'',
+                                'answer'=> 'f26'
+                                ),
+                    '27'=> array(
+                                'question'=>'',
+                                'answer'=> 'f27'
+                                ),
+                    '28'=> array(
+                                'question'=>'',
+                                'answer'=> 'f28'
+                                ),
+                    '29'=> array(
+                                'question'=>'',
+                                'answer'=> 'f29'
+                                ),
+                    '30'=> array(
+                                'question'=>'',
+                                'answer'=> 'f30'
+                                ),
+                    '31'=> array(
+                                'question'=>'',
+                                'answer'=> 'f31'
+                                ),
+                    '32'=> array(
+                                'question'=>'',
+                                'answer'=> 'f32'
+                                ),
+                    '33'=> array(
+                                'question'=>'',
+                                'answer'=> 'f33'
+                                ),
+                    '34'=> array(
+                                'question'=>'',
+                                'answer'=> 'f34'
+                                ),
+                    '35'=> array(
+                                'question'=>'',
+                                'answer'=> 'f35'
+                                ),
+                    '36'=> array(
+                                'question'=>'',
+                                'answer'=> 'f36'
+                                ),
+                    '37'=> array(
+                                'question'=>'',
+                                'answer'=> 'f37'
+                                ),
+                    '38'=> array(
+                                'question'=>'',
+                                'answer'=> 'f38'
+                                ),
+                    '39'=> array(
+                                'question'=>'',
+                                'answer'=> 'f39'
+                                ),
+                    '40'=> array(
+                                'question'=>'',
+                                'answer'=> 'f40'
+                                ),
+                    '41'=> array(
+                                'question'=>'',
+                                'answer'=> 'f41'
+                                ),
+                    '42'=> array(
+                                'question'=>'',
+                                'answer'=> 'f42'
+                                ),
+                    '43'=> array(
+                                'question'=>'',
+                                'answer'=> 'f43'
+                                ),
+                    '44'=> array(
+                                'question'=>'',
+                                'answer'=> 'f44'
+                                ),
+                    '45'=> array(
+                                'question'=>'',
+                                'answer'=> 'f45'
+                                ),
+                    '46'=> array(
+                                'question'=>'',
+                                'answer'=> 'f46'
+                                ),
+                    '47'=> array(
+                                'question'=>'',
+                                'answer'=> 'f47'
+                                ),
+                    '48'=> array(
+                                'question'=>'',
+                                'answer'=> 'f48'
+                                ),
+                    '49'=> array(
+                                'question'=>'',
+                                'answer'=> 'f49'
+                                ),
+                    '50'=> array(
+                                'question'=>'',
+                                'answer'=> 'f50'
+                                ),
+                    '51'=> array(
+                                'question'=>'',
+                                'answer'=> 'f51'
+                                ),
+                    '52'=> array(
+                                'question'=>'',
+                                'answer'=> 'f52'
+                                ),
+                    '53'=> array(
+                                'question'=>'',
+                                'answer'=> 'f53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'f54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'f55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'f56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'f57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'f58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'f59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'f60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'f61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'f62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'f63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'f64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'f65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'f66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'f67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'f68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'f69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'f70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'f71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'f72'
+                                ),
+                    
+                   );
+}
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+{
+$data['f13'] = array(
+                    '1'=> array(
+                                'question'=>'',
+                                'answer'=> "fm1"
+                                ),
+                    '2'=> array(
+                                'question'=>'',
+                                'answer'=> 'f2'
+                                ),
+                    '3'=> array(
+                                'question'=>'',
+                                'answer'=> 'f3'
+                                ),
+                    '4'=> array(
+                                'question'=>'',
+                                'answer'=> 'f4'
+                                ),
+                    '5'=> array(
+                                'question'=>'',
+                                'answer'=> 'f5'
+                                ),
+                    '6'=> array(
+                                'question'=>'',
+                                'answer'=> 'f6'
+                                ),
+                    '7'=> array(
+                                'question'=>'',
+                                'answer'=> 'f7'
+                                ),
+                    '8'=> array(
+                                'question'=>'',
+                                'answer'=> 'f8'
+                                ),
+                    '9'=> array(
+                                'question'=>'',
+                                'answer'=> 'f9'
+                                ),
+                    '10'=> array(
+                                'question'=>'',
+                                'answer'=> 'f10'
+                                ),
+                    '11'=> array(
+                                'question'=>'',
+                                'answer'=> 'f11'
+                                ),
+                    '12'=> array(
+                                'question'=>'',
+                                'answer'=> 'f12'
+                                ),
+                    '13'=> array(
+                                'question'=>'',
+                                'answer'=> 'f13'
+                                ),
+                    '14'=> array(
+                                'question'=>'',
+                                'answer'=> 'f14'
+                                ),
+                    '15'=> array(
+                                'question'=>'',
+                                'answer'=> 'f15'
+                                ),
+                    '16'=> array(
+                                'question'=>'',
+                                'answer'=> 'f16'
+                                ),
+                    '17'=> array(
+                                'question'=>'',
+                                'answer'=> 'f17'
+                                ),
+                    '18'=> array(
+                                'question'=>'',
+                                'answer'=> 'f18'
+                                ),
+                    '19'=> array(
+                                'question'=>'',
+                                'answer'=> 'f19'
+                                ),
+                    '20'=> array(
+                                'question'=>'',
+                                'answer'=> 'f20'
+                                ),
+                    '21'=> array(
+                                'question'=>'',
+                                'answer'=> 'f21'
+                                ),
+                    '22'=> array(
+                                'question'=>'',
+                                'answer'=> 'f22'
+                                ),
+                    '23'=> array(
+                                'question'=>'',
+                                'answer'=> 'f23'
+                                ),
+                    '24'=> array(
+                                'question'=>'',
+                                'answer'=> 'f24'
+                                ),
+                    '25'=> array(
+                                'question'=>'',
+                                'answer'=> 'f25'
+                                ),
+                    '26'=> array(
+                                'question'=>'',
+                                'answer'=> 'f26'
+                                ),
+                    '27'=> array(
+                                'question'=>'',
+                                'answer'=> 'f27'
+                                ),
+                    '28'=> array(
+                                'question'=>'',
+                                'answer'=> 'f28'
+                                ),
+                    '29'=> array(
+                                'question'=>'',
+                                'answer'=> 'f29'
+                                ),
+                    '30'=> array(
+                                'question'=>'',
+                                'answer'=> 'f30'
+                                ),
+                    '31'=> array(
+                                'question'=>'',
+                                'answer'=> 'f31'
+                                ),
+                    '32'=> array(
+                                'question'=>'',
+                                'answer'=> 'f32'
+                                ),
+                    '33'=> array(
+                                'question'=>'',
+                                'answer'=> 'f33'
+                                ),
+                    '34'=> array(
+                                'question'=>'',
+                                'answer'=> 'f34'
+                                ),
+                    '35'=> array(
+                                'question'=>'',
+                                'answer'=> 'f35'
+                                ),
+                    '36'=> array(
+                                'question'=>'',
+                                'answer'=> 'f36'
+                                ),
+                    '37'=> array(
+                                'question'=>'',
+                                'answer'=> 'f37'
+                                ),
+                    '38'=> array(
+                                'question'=>'',
+                                'answer'=> 'f38'
+                                ),
+                    '39'=> array(
+                                'question'=>'',
+                                'answer'=> 'f39'
+                                ),
+                    '40'=> array(
+                                'question'=>'',
+                                'answer'=> 'f40'
+                                ),
+                    '41'=> array(
+                                'question'=>'',
+                                'answer'=> 'f41'
+                                ),
+                    '42'=> array(
+                                'question'=>'',
+                                'answer'=> 'f42'
+                                ),
+                    '43'=> array(
+                                'question'=>'',
+                                'answer'=> 'f43'
+                                ),
+                    '44'=> array(
+                                'question'=>'',
+                                'answer'=> 'f44'
+                                ),
+                    '45'=> array(
+                                'question'=>'',
+                                'answer'=> 'f45'
+                                ),
+                    '46'=> array(
+                                'question'=>'',
+                                'answer'=> 'f46'
+                                ),
+                    '47'=> array(
+                                'question'=>'',
+                                'answer'=> 'f47'
+                                ),
+                    '48'=> array(
+                                'question'=>'',
+                                'answer'=> 'f48'
+                                ),
+                    '49'=> array(
+                                'question'=>'',
+                                'answer'=> 'f49'
+                                ),
+                    '50'=> array(
+                                'question'=>'',
+                                'answer'=> 'f50'
+                                ),
+                    '51'=> array(
+                                'question'=>'',
+                                'answer'=> 'f51'
+                                ),
+                    '52'=> array(
+                                'question'=>'',
+                                'answer'=> 'f52'
+                                ),
+                    '53'=> array(
+                                'question'=>'',
+                                'answer'=> 'f53'
+                                ),
+                    '54'=> array(
+                                'question'=>'',
+                                'answer'=> 'f54'
+                                ),
+                    '55'=> array(
+                                'question'=>'',
+                                'answer'=> 'f55'
+                                ),
+                    '56'=> array(
+                                'question'=>'',
+                                'answer'=> 'f56'
+                                ),
+                    '57'=> array(
+                                'question'=>'',
+                                'answer'=> 'f57'
+                                ),
+                    '58'=> array(
+                                'question'=>'',
+                                'answer'=> 'f58'
+                                ),
+                    '59'=> array(
+                                'question'=>'',
+                                'answer'=> 'f59'
+                                ),
+                    '60'=> array(
+                                'question'=>'',
+                                'answer'=> 'f60'
+                                ),
+                    '61'=> array(
+                                'question'=>'',
+                                'answer'=> 'f61'
+                                ),
+                    '62'=> array(
+                                'question'=>'',
+                                'answer'=> 'f62'
+                                ),
+                    '63'=> array(
+                                'question'=>'',
+                                'answer'=> 'f63'
+                                ),
+                    '64'=> array(
+                                'question'=>'',
+                                'answer'=> 'f64'
+                                ),
+                    '65'=> array(
+                                'question'=>'',
+                                'answer'=> 'f65'
+                                ),
+                    '66'=> array(
+                                'question'=>'',
+                                'answer'=> 'f66'
+                                ),
+                    '67'=> array(
+                                'question'=>'',
+                                'answer'=> 'f67'
+                                ),
+                    '68'=> array(
+                                'question'=>'',
+                                'answer'=> 'f68'
+                                ),
+                    '69'=> array(
+                                'question'=>'',
+                                'answer'=> 'f69'
+                                ),
+                    '70'=> array(
+                                'question'=>'',
+                                'answer'=> 'f70'
+                                ),
+                    '71'=> array(
+                                'question'=>'',
+                                'answer'=> 'f71'
+                                ),
+                    '72'=> array(
+                                'question'=>'',
+                                'answer'=> 'f72'
+                                ),
+                    
+                   );
+}
+
+
+
+
+
+
+
+
+
 
 
 function dump($var)
